@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2025-2026\\13.bc AAF mobil\\--== Dolgozatok\\6. dolgozat http gui crud\\RobotPorszivok Doga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97808A-97EB-49EC-ABE3-84B1D7C3BADB}|RobotPorszivok\\RobotPorszivok.csproj|h:\\2025-2026\\13.bc aaf mobil\\--== dolgozatok\\6. dolgozat http gui crud\\robotporszivok doga\\robotporszivok\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E97808A-97EB-49EC-ABE3-84B1D7C3BADB}|RobotPorszivok\\RobotPorszivok.csproj|solutionrelative:robotporszivok\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E97808A-97EB-49EC-ABE3-84B1D7C3BADB}|RobotPorszivok\\RobotPorszivok.csproj|h:\\2025-2026\\13.bc aaf mobil\\--== dolgozatok\\6. dolgozat http gui crud\\robotporszivok doga\\robotporszivok\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E97808A-97EB-49EC-ABE3-84B1D7C3BADB}|RobotPorszivok\\RobotPorszivok.csproj|solutionrelative:robotporszivok\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\2025-2026\\13.bc AAF mobil\\--== Dolgozatok\\6. dolgozat http gui crud\\RobotPorszivok Doga\\RobotPorszivok\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RobotPorszivok\\MainWindow.xaml.cs",
+              "ToolTip": "H:\\2025-2026\\13.bc AAF mobil\\--== Dolgozatok\\6. dolgozat http gui crud\\RobotPorszivok Doga\\RobotPorszivok\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RobotPorszivok\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:10:17.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\2025-2026\\13.bc AAF mobil\\--== Dolgozatok\\6. dolgozat http gui crud\\RobotPorszivok Doga\\RobotPorszivok\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RobotPorszivok\\MainWindow.xaml",
+              "ToolTip": "H:\\2025-2026\\13.bc AAF mobil\\--== Dolgozatok\\6. dolgozat http gui crud\\RobotPorszivok Doga\\RobotPorszivok\\MainWindow.xaml",
+              "RelativeToolTip": "RobotPorszivok\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-10T14:07:07.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

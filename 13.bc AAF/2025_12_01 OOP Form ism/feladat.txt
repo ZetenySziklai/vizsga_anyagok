@@ -1,0 +1,10 @@
+Készíts egy OOP alapú könyvtári rendszert. (console)
+- Lehessen könyveket felvinni (szerző(k), cím, kiadás éve stb)
+- Lehessen kölcsönző adatait felvinni (id, név, lakcím, tel stb)
+- Lehessen felvinni ki mit kölcsönöz(ki, mit,  mikor, meddig)
+Az adatok tárolása mehet nyugodtan txt-fájlba!
+Készíts grafikus felületet, ami a korábban implementált osztályokat felhasználja és megjeleníti az adatokat
+- Lehessen új könyvet, kölcsönzőt felvinni a rendszerbe.
+- Lehessen könyvekre, kölcsönzőkre, dátumokra, szűrni
+- Lehessen lekérni, aki nem hozta vissza a könyveket és lejárt a dátuma!
+- egyéb funkciók!

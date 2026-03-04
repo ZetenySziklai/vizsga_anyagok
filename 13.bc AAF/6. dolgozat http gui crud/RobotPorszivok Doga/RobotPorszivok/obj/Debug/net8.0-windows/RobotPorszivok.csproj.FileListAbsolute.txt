@@ -1,0 +1,63 @@
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\obj\Debug\net8.0-windows\App.g.cs
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok_MarkupCompile.cache
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok_MarkupCompile.lref
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\bin\Debug\net8.0-windows\RobotPorszivok.exe
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\bin\Debug\net8.0-windows\RobotPorszivok.deps.json
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\bin\Debug\net8.0-windows\RobotPorszivok.runtimeconfig.json
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\bin\Debug\net8.0-windows\RobotPorszivok.dll
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\bin\Debug\net8.0-windows\RobotPorszivok.pdb
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\obj\Debug\net8.0-windows\MainWindow.baml
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.g.resources
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.GeneratedMSBuildEditorConfig.editorconfig
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.AssemblyInfoInputs.cache
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.AssemblyInfo.cs
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.csproj.CoreCompileInputs.cache
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.dll
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\obj\Debug\net8.0-windows\refint\RobotPorszivok.dll
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.pdb
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.genruntimeconfig.cache
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok\RobotPorszivok\obj\Debug\net8.0-windows\ref\RobotPorszivok.dll
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\bin\Debug\net8.0-windows\RobotPorszivok.exe
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\bin\Debug\net8.0-windows\RobotPorszivok.deps.json
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\bin\Debug\net8.0-windows\RobotPorszivok.runtimeconfig.json
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\bin\Debug\net8.0-windows\RobotPorszivok.dll
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\bin\Debug\net8.0-windows\RobotPorszivok.pdb
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\App.g.cs
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok_MarkupCompile.cache
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok_MarkupCompile.lref
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\MainWindow.baml
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.g.resources
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.GeneratedMSBuildEditorConfig.editorconfig
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.AssemblyInfoInputs.cache
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.AssemblyInfo.cs
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.csproj.CoreCompileInputs.cache
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.dll
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\refint\RobotPorszivok.dll
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.pdb
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.genruntimeconfig.cache
+G:\--== KÖZGÁZ\2025-2026\13.cb AAF\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\ref\RobotPorszivok.dll
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\bin\Debug\net8.0-windows\RobotPorszivok.exe
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\bin\Debug\net8.0-windows\RobotPorszivok.deps.json
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\bin\Debug\net8.0-windows\RobotPorszivok.runtimeconfig.json
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\bin\Debug\net8.0-windows\RobotPorszivok.dll
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\bin\Debug\net8.0-windows\RobotPorszivok.pdb
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\App.g.cs
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok_MarkupCompile.cache
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok_MarkupCompile.lref
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\MainWindow.baml
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.g.resources
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.AssemblyInfoInputs.cache
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.AssemblyInfo.cs
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.csproj.CoreCompileInputs.cache
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.dll
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\refint\RobotPorszivok.dll
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.pdb
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\RobotPorszivok.genruntimeconfig.cache
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\6. dolgozat http gui crud\RobotPorszivok Doga\RobotPorszivok\obj\Debug\net8.0-windows\ref\RobotPorszivok.dll

@@ -1,0 +1,44 @@
+:root{
+    --pad: 5px;
+    --rad: 10px;
+}
+
+.termek{
+    display: grid;  
+    grid-template-columns: 1fr 9fr;  
+    padding: var(--pad);
+    border: 1px solid brown;
+    margin: 2px;
+    border-radius: var(--rad) ;
+}
+
+.termek_nev_ar{    
+    display: grid;  
+    grid-template-columns: 8fr 2fr;  
+}
+
+.termek_datum{
+    padding: var(--pad);
+}
+
+.termek_nev{
+
+    padding: var(--pad);
+}
+.termek_ar{
+
+    text-align: center;
+    border: 2px solid white;
+    background-color: bisque;
+    border-radius:var(--rad) ;
+    padding: var(--pad);
+}
+
+@media screen  and (max-width: 600px){
+    .termek{
+        grid-row: auto;
+    }
+    .termek_nev_ar{
+        grid-row: auto;
+    }
+}

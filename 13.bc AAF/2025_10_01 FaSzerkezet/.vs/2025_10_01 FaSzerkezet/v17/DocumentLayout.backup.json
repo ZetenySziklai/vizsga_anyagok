@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2025-2026\\13.bc AAF mobil\\2025_10_01 FaSzerkezet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B49B61-0A4E-4F61-A342-51EEEC2107F3}|2025_10_01 FaSzerkezet\\2025_10_01 FaSzerkezet.csproj|h:\\2025-2026\\13.bc aaf mobil\\2025_10_01 faszerkezet\\2025_10_01 faszerkezet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B49B61-0A4E-4F61-A342-51EEEC2107F3}|2025_10_01 FaSzerkezet\\2025_10_01 FaSzerkezet.csproj|solutionrelative:2025_10_01 faszerkezet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B49B61-0A4E-4F61-A342-51EEEC2107F3}|2025_10_01 FaSzerkezet\\2025_10_01 FaSzerkezet.csproj|h:\\2025-2026\\13.bc aaf mobil\\2025_10_01 faszerkezet\\2025_10_01 faszerkezet\\csomopont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B49B61-0A4E-4F61-A342-51EEEC2107F3}|2025_10_01 FaSzerkezet\\2025_10_01 FaSzerkezet.csproj|solutionrelative:2025_10_01 faszerkezet\\csomopont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B49B61-0A4E-4F61-A342-51EEEC2107F3}|2025_10_01 FaSzerkezet\\2025_10_01 FaSzerkezet.csproj|h:\\2025-2026\\13.bc aaf mobil\\2025_10_01 faszerkezet\\2025_10_01 faszerkezet\\faszerkezet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B49B61-0A4E-4F61-A342-51EEEC2107F3}|2025_10_01 FaSzerkezet\\2025_10_01 FaSzerkezet.csproj|solutionrelative:2025_10_01 faszerkezet\\faszerkezet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B49B61-0A4E-4F61-A342-51EEEC2107F3}|2025_10_01 FaSzerkezet\\2025_10_01 FaSzerkezet.csproj|h:\\2025-2026\\13.bc aaf mobil\\2025_10_01 faszerkezet\\2025_10_01 faszerkezet\\binarisfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B49B61-0A4E-4F61-A342-51EEEC2107F3}|2025_10_01 FaSzerkezet\\2025_10_01 FaSzerkezet.csproj|solutionrelative:2025_10_01 faszerkezet\\binarisfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FaSzerkezet.cs",
+              "DocumentMoniker": "H:\\2025-2026\\13.bc AAF mobil\\2025_10_01 FaSzerkezet\\2025_10_01 FaSzerkezet\\FaSzerkezet.cs",
+              "RelativeDocumentMoniker": "2025_10_01 FaSzerkezet\\FaSzerkezet.cs",
+              "ToolTip": "H:\\2025-2026\\13.bc AAF mobil\\2025_10_01 FaSzerkezet\\2025_10_01 FaSzerkezet\\FaSzerkezet.cs",
+              "RelativeToolTip": "2025_10_01 FaSzerkezet\\FaSzerkezet.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:51:54.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BinarisFa.cs",
+              "DocumentMoniker": "H:\\2025-2026\\13.bc AAF mobil\\2025_10_01 FaSzerkezet\\2025_10_01 FaSzerkezet\\BinarisFa.cs",
+              "RelativeDocumentMoniker": "2025_10_01 FaSzerkezet\\BinarisFa.cs",
+              "ToolTip": "H:\\2025-2026\\13.bc AAF mobil\\2025_10_01 FaSzerkezet\\2025_10_01 FaSzerkezet\\BinarisFa.cs",
+              "RelativeToolTip": "2025_10_01 FaSzerkezet\\BinarisFa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T07:04:39.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Csomopont.cs",
+              "DocumentMoniker": "H:\\2025-2026\\13.bc AAF mobil\\2025_10_01 FaSzerkezet\\2025_10_01 FaSzerkezet\\Csomopont.cs",
+              "RelativeDocumentMoniker": "2025_10_01 FaSzerkezet\\Csomopont.cs",
+              "ToolTip": "H:\\2025-2026\\13.bc AAF mobil\\2025_10_01 FaSzerkezet\\2025_10_01 FaSzerkezet\\Csomopont.cs",
+              "RelativeToolTip": "2025_10_01 FaSzerkezet\\Csomopont.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T07:01:33.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2025-2026\\13.bc AAF mobil\\2025_10_01 FaSzerkezet\\2025_10_01 FaSzerkezet\\Program.cs",
+              "RelativeDocumentMoniker": "2025_10_01 FaSzerkezet\\Program.cs",
+              "ToolTip": "H:\\2025-2026\\13.bc AAF mobil\\2025_10_01 FaSzerkezet\\2025_10_01 FaSzerkezet\\Program.cs",
+              "RelativeToolTip": "2025_10_01 FaSzerkezet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T06:40:34.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

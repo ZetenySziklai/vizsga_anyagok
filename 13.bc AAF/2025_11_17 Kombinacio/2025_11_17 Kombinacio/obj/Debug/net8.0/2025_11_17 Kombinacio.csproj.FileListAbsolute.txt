@@ -1,0 +1,14 @@
+H:\2025-2026\13.bc AAF mobil\2025_11_17 Kombinacio\2025_11_17 Kombinacio\bin\Debug\net8.0\2025_11_17 Kombinacio.exe
+H:\2025-2026\13.bc AAF mobil\2025_11_17 Kombinacio\2025_11_17 Kombinacio\bin\Debug\net8.0\2025_11_17 Kombinacio.deps.json
+H:\2025-2026\13.bc AAF mobil\2025_11_17 Kombinacio\2025_11_17 Kombinacio\bin\Debug\net8.0\2025_11_17 Kombinacio.runtimeconfig.json
+H:\2025-2026\13.bc AAF mobil\2025_11_17 Kombinacio\2025_11_17 Kombinacio\bin\Debug\net8.0\2025_11_17 Kombinacio.dll
+H:\2025-2026\13.bc AAF mobil\2025_11_17 Kombinacio\2025_11_17 Kombinacio\bin\Debug\net8.0\2025_11_17 Kombinacio.pdb
+H:\2025-2026\13.bc AAF mobil\2025_11_17 Kombinacio\2025_11_17 Kombinacio\obj\Debug\net8.0\2025_11_17 Kombinacio.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025-2026\13.bc AAF mobil\2025_11_17 Kombinacio\2025_11_17 Kombinacio\obj\Debug\net8.0\2025_11_17 Kombinacio.AssemblyInfoInputs.cache
+H:\2025-2026\13.bc AAF mobil\2025_11_17 Kombinacio\2025_11_17 Kombinacio\obj\Debug\net8.0\2025_11_17 Kombinacio.AssemblyInfo.cs
+H:\2025-2026\13.bc AAF mobil\2025_11_17 Kombinacio\2025_11_17 Kombinacio\obj\Debug\net8.0\2025_11_17 Kombinacio.csproj.CoreCompileInputs.cache
+H:\2025-2026\13.bc AAF mobil\2025_11_17 Kombinacio\2025_11_17 Kombinacio\obj\Debug\net8.0\2025_11_17 Kombinacio.dll
+H:\2025-2026\13.bc AAF mobil\2025_11_17 Kombinacio\2025_11_17 Kombinacio\obj\Debug\net8.0\refint\2025_11_17 Kombinacio.dll
+H:\2025-2026\13.bc AAF mobil\2025_11_17 Kombinacio\2025_11_17 Kombinacio\obj\Debug\net8.0\2025_11_17 Kombinacio.pdb
+H:\2025-2026\13.bc AAF mobil\2025_11_17 Kombinacio\2025_11_17 Kombinacio\obj\Debug\net8.0\2025_11_17 Kombinacio.genruntimeconfig.cache
+H:\2025-2026\13.bc AAF mobil\2025_11_17 Kombinacio\2025_11_17 Kombinacio\obj\Debug\net8.0\ref\2025_11_17 Kombinacio.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2025-2026\\13.bc AAF mobil\\--== Dolgozatok\\2.2. dolgozat sz\u00E9less\u00E9gi, m\u00E9lys\u00E9gi\\RobotDoga megold\u00E1s\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB706968-2672-49AE-9C6D-5CAA48732A6E}|RobotDoga\\RobotDoga.csproj|h:\\2025-2026\\13.bc aaf mobil\\--== dolgozatok\\2.2. dolgozat sz\u00E9less\u00E9gi, m\u00E9lys\u00E9gi\\robotdoga megold\u00E1s\\robotdoga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB706968-2672-49AE-9C6D-5CAA48732A6E}|RobotDoga\\RobotDoga.csproj|solutionrelative:robotdoga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB706968-2672-49AE-9C6D-5CAA48732A6E}|RobotDoga\\RobotDoga.csproj|h:\\2025-2026\\13.bc aaf mobil\\--== dolgozatok\\2.2. dolgozat sz\u00E9less\u00E9gi, m\u00E9lys\u00E9gi\\robotdoga megold\u00E1s\\robotdoga\\allapotter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB706968-2672-49AE-9C6D-5CAA48732A6E}|RobotDoga\\RobotDoga.csproj|solutionrelative:robotdoga\\allapotter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB706968-2672-49AE-9C6D-5CAA48732A6E}|RobotDoga\\RobotDoga.csproj|h:\\2025-2026\\13.bc aaf mobil\\--== dolgozatok\\2.2. dolgozat sz\u00E9less\u00E9gi, m\u00E9lys\u00E9gi\\robotdoga megold\u00E1s\\robotdoga\\allapot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB706968-2672-49AE-9C6D-5CAA48732A6E}|RobotDoga\\RobotDoga.csproj|solutionrelative:robotdoga\\allapot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllapotTer.cs",
+              "DocumentMoniker": "H:\\2025-2026\\13.bc AAF mobil\\--== Dolgozatok\\2.2. dolgozat sz\u00E9less\u00E9gi, m\u00E9lys\u00E9gi\\RobotDoga megold\u00E1s\\RobotDoga\\AllapotTer.cs",
+              "RelativeDocumentMoniker": "RobotDoga\\AllapotTer.cs",
+              "ToolTip": "H:\\2025-2026\\13.bc AAF mobil\\--== Dolgozatok\\2.2. dolgozat sz\u00E9less\u00E9gi, m\u00E9lys\u00E9gi\\RobotDoga megold\u00E1s\\RobotDoga\\AllapotTer.cs",
+              "RelativeToolTip": "RobotDoga\\AllapotTer.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAFcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:33:03.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Allapot.cs",
+              "DocumentMoniker": "H:\\2025-2026\\13.bc AAF mobil\\--== Dolgozatok\\2.2. dolgozat sz\u00E9less\u00E9gi, m\u00E9lys\u00E9gi\\RobotDoga megold\u00E1s\\RobotDoga\\Allapot.cs",
+              "RelativeDocumentMoniker": "RobotDoga\\Allapot.cs",
+              "ToolTip": "H:\\2025-2026\\13.bc AAF mobil\\--== Dolgozatok\\2.2. dolgozat sz\u00E9less\u00E9gi, m\u00E9lys\u00E9gi\\RobotDoga megold\u00E1s\\RobotDoga\\Allapot.cs",
+              "RelativeToolTip": "RobotDoga\\Allapot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:32:58.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2025-2026\\13.bc AAF mobil\\--== Dolgozatok\\2.2. dolgozat sz\u00E9less\u00E9gi, m\u00E9lys\u00E9gi\\RobotDoga megold\u00E1s\\RobotDoga\\Program.cs",
+              "RelativeDocumentMoniker": "RobotDoga\\Program.cs",
+              "ToolTip": "H:\\2025-2026\\13.bc AAF mobil\\--== Dolgozatok\\2.2. dolgozat sz\u00E9less\u00E9gi, m\u00E9lys\u00E9gi\\RobotDoga megold\u00E1s\\RobotDoga\\Program.cs",
+              "RelativeToolTip": "RobotDoga\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:32:42.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

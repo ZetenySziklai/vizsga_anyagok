@@ -1,0 +1,4 @@
+.termekek{
+    display: flex;
+    flex-direction: row;
+}

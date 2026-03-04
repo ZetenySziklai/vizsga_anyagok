@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+    padding: 5px;
+}
+input{
+    width: 3em;
+}
+#inputDiv{
+    padding: 5px;
+}
+#boxes{
+
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+}
+#boxes div{
+    padding: 10px;
+    border: 1px solid black;
+    margin: 2px;
+}

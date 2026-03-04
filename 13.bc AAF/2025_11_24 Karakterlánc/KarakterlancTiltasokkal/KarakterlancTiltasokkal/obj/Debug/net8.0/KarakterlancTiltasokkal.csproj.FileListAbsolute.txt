@@ -1,0 +1,14 @@
+H:\2025-2026\13.bc AAF mobil\KarakterlancTiltasokkal\KarakterlancTiltasokkal\bin\Debug\net8.0\KarakterlancTiltasokkal.exe
+H:\2025-2026\13.bc AAF mobil\KarakterlancTiltasokkal\KarakterlancTiltasokkal\bin\Debug\net8.0\KarakterlancTiltasokkal.deps.json
+H:\2025-2026\13.bc AAF mobil\KarakterlancTiltasokkal\KarakterlancTiltasokkal\bin\Debug\net8.0\KarakterlancTiltasokkal.runtimeconfig.json
+H:\2025-2026\13.bc AAF mobil\KarakterlancTiltasokkal\KarakterlancTiltasokkal\bin\Debug\net8.0\KarakterlancTiltasokkal.dll
+H:\2025-2026\13.bc AAF mobil\KarakterlancTiltasokkal\KarakterlancTiltasokkal\bin\Debug\net8.0\KarakterlancTiltasokkal.pdb
+H:\2025-2026\13.bc AAF mobil\KarakterlancTiltasokkal\KarakterlancTiltasokkal\obj\Debug\net8.0\KarakterlancTiltasokkal.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025-2026\13.bc AAF mobil\KarakterlancTiltasokkal\KarakterlancTiltasokkal\obj\Debug\net8.0\KarakterlancTiltasokkal.AssemblyInfoInputs.cache
+H:\2025-2026\13.bc AAF mobil\KarakterlancTiltasokkal\KarakterlancTiltasokkal\obj\Debug\net8.0\KarakterlancTiltasokkal.AssemblyInfo.cs
+H:\2025-2026\13.bc AAF mobil\KarakterlancTiltasokkal\KarakterlancTiltasokkal\obj\Debug\net8.0\KarakterlancTiltasokkal.csproj.CoreCompileInputs.cache
+H:\2025-2026\13.bc AAF mobil\KarakterlancTiltasokkal\KarakterlancTiltasokkal\obj\Debug\net8.0\KarakterlancTiltasokkal.dll
+H:\2025-2026\13.bc AAF mobil\KarakterlancTiltasokkal\KarakterlancTiltasokkal\obj\Debug\net8.0\refint\KarakterlancTiltasokkal.dll
+H:\2025-2026\13.bc AAF mobil\KarakterlancTiltasokkal\KarakterlancTiltasokkal\obj\Debug\net8.0\KarakterlancTiltasokkal.pdb
+H:\2025-2026\13.bc AAF mobil\KarakterlancTiltasokkal\KarakterlancTiltasokkal\obj\Debug\net8.0\KarakterlancTiltasokkal.genruntimeconfig.cache
+H:\2025-2026\13.bc AAF mobil\KarakterlancTiltasokkal\KarakterlancTiltasokkal\obj\Debug\net8.0\ref\KarakterlancTiltasokkal.dll

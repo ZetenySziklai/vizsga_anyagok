@@ -1,0 +1,36 @@
+:root{
+    --pad: 5px;
+    --rad: 10px;
+}
+
+.termek{
+    display: flex;    
+    padding: var(--pad);
+    border: 1px solid brown;
+    margin: 2px;
+    border-radius: var(--rad) ;
+}
+
+.termek_nev_ar{
+    display:  flex;
+    justify-content: flex-end;  
+    width: 90%;
+}
+
+.termek_datum{
+    width: 10%;
+    padding: var(--pad);
+}
+
+.termek_nev{
+    width: 80%;
+    padding: var(--pad);
+}
+.termek_ar{
+    width: 20%;
+    text-align: center;
+    border: 2px solid white;
+    background-color: bisque;
+    border-radius:var(--rad) ;
+    padding: var(--pad);
+}

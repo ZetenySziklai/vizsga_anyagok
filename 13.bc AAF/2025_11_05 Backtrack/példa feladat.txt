@@ -1,0 +1,13 @@
+1. Összes permutáció generálása
+
+Feladat: Adj meg egy számhalmazt (pl. {1, 2, 3}) és generáld az összes lehetséges sorrendet.
+
+Minden lépésnél választasz egy elemet, ami még nem szerepelt a sorrendben → rekurzívan folytatod → majd visszalépsz.
+
+
+2. Kombináció - Összeadási kombináció
+
+Feladat: Adott egy számokból álló lista, keresd meg, mely kombinációk adják meg a célt (a számok összege a cél) ismétlés nélküli.
+pl. lista {1 2 3 4 5 6} cél: 4
+{1 3}
+{4}

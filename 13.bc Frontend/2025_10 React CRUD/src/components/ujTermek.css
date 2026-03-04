@@ -1,0 +1,13 @@
+.ujTermek{
+    display: block;
+    font-size: 40px;
+    font-weight: bold;
+    width: 45px;
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-shadow: inset -3px -3px 5px lightgrey ;
+}
+.ujTermek:hover{
+    cursor: pointer;
+}

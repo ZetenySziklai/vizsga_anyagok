@@ -1,0 +1,12 @@
+div{
+    margin: 5px;
+}
+label{
+    margin-right: 20px;
+}
+input{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 2px;
+    margin-right: 10px;
+}

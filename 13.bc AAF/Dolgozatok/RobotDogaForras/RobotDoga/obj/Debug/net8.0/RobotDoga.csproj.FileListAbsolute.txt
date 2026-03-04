@@ -1,0 +1,14 @@
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.2. dolgozat szélességi, mélységi\RobotDoga\RobotDoga\bin\Debug\net8.0\RobotDoga.exe
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.2. dolgozat szélességi, mélységi\RobotDoga\RobotDoga\bin\Debug\net8.0\RobotDoga.deps.json
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.2. dolgozat szélességi, mélységi\RobotDoga\RobotDoga\bin\Debug\net8.0\RobotDoga.runtimeconfig.json
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.2. dolgozat szélességi, mélységi\RobotDoga\RobotDoga\bin\Debug\net8.0\RobotDoga.dll
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.2. dolgozat szélességi, mélységi\RobotDoga\RobotDoga\bin\Debug\net8.0\RobotDoga.pdb
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.2. dolgozat szélességi, mélységi\RobotDoga\RobotDoga\obj\Debug\net8.0\RobotDoga.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.2. dolgozat szélességi, mélységi\RobotDoga\RobotDoga\obj\Debug\net8.0\RobotDoga.AssemblyInfoInputs.cache
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.2. dolgozat szélességi, mélységi\RobotDoga\RobotDoga\obj\Debug\net8.0\RobotDoga.AssemblyInfo.cs
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.2. dolgozat szélességi, mélységi\RobotDoga\RobotDoga\obj\Debug\net8.0\RobotDoga.csproj.CoreCompileInputs.cache
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.2. dolgozat szélességi, mélységi\RobotDoga\RobotDoga\obj\Debug\net8.0\RobotDoga.dll
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.2. dolgozat szélességi, mélységi\RobotDoga\RobotDoga\obj\Debug\net8.0\refint\RobotDoga.dll
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.2. dolgozat szélességi, mélységi\RobotDoga\RobotDoga\obj\Debug\net8.0\RobotDoga.pdb
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.2. dolgozat szélességi, mélységi\RobotDoga\RobotDoga\obj\Debug\net8.0\RobotDoga.genruntimeconfig.cache
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.2. dolgozat szélességi, mélységi\RobotDoga\RobotDoga\obj\Debug\net8.0\ref\RobotDoga.dll
