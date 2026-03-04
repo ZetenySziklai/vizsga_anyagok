@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KutyaMenhely", "KutyaMenhely\KutyaMenhely.csproj", "{679502C5-E98A-4A56-9D71-0CE1E219348F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KutyaMenhelyTeszetk", "KutyaMenhelyTeszetk\KutyaMenhelyTeszetk.csproj", "{3FE001B5-9B27-415C-A86E-E94730276733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{679502C5-E98A-4A56-9D71-0CE1E219348F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679502C5-E98A-4A56-9D71-0CE1E219348F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679502C5-E98A-4A56-9D71-0CE1E219348F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679502C5-E98A-4A56-9D71-0CE1E219348F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE001B5-9B27-415C-A86E-E94730276733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE001B5-9B27-415C-A86E-E94730276733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE001B5-9B27-415C-A86E-E94730276733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE001B5-9B27-415C-A86E-E94730276733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {671801E8-9F36-429E-9BAC-5A62115F0C87}
+	EndGlobalSection
+EndGlobal

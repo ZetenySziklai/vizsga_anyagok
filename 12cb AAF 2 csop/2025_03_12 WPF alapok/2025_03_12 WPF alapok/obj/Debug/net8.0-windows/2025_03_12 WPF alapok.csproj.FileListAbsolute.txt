@@ -1,0 +1,21 @@
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\bin\Debug\net8.0-windows\2025_03_12 WPF alapok.exe
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\bin\Debug\net8.0-windows\2025_03_12 WPF alapok.deps.json
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\bin\Debug\net8.0-windows\2025_03_12 WPF alapok.runtimeconfig.json
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\bin\Debug\net8.0-windows\2025_03_12 WPF alapok.dll
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\bin\Debug\net8.0-windows\2025_03_12 WPF alapok.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\obj\Debug\net8.0-windows\App.g.cs
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\obj\Debug\net8.0-windows\2025_03_12 WPF alapok_MarkupCompile.cache
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\obj\Debug\net8.0-windows\2025_03_12 WPF alapok_MarkupCompile.lref
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\obj\Debug\net8.0-windows\MainWindow.baml
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\obj\Debug\net8.0-windows\2025_03_12 WPF alapok.g.resources
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\obj\Debug\net8.0-windows\2025_03_12 WPF alapok.GeneratedMSBuildEditorConfig.editorconfig
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\obj\Debug\net8.0-windows\2025_03_12 WPF alapok.AssemblyInfoInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\obj\Debug\net8.0-windows\2025_03_12 WPF alapok.AssemblyInfo.cs
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\obj\Debug\net8.0-windows\2025_03_12 WPF alapok.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\obj\Debug\net8.0-windows\2025_03_12 WPF alapok.sourcelink.json
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\obj\Debug\net8.0-windows\2025_03_12 WPF alapok.dll
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\obj\Debug\net8.0-windows\refint\2025_03_12 WPF alapok.dll
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\obj\Debug\net8.0-windows\2025_03_12 WPF alapok.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\obj\Debug\net8.0-windows\2025_03_12 WPF alapok.genruntimeconfig.cache
+H:\2024-2025\12.cb AAF 2csop\2025_03_12 WPF alapok\2025_03_12 WPF alapok\obj\Debug\net8.0-windows\ref\2025_03_12 WPF alapok.dll

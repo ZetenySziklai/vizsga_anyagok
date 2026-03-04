@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2024_02_22_Struktura\2024_02_22_Struktura\bin\Debug\2024_02_22_Struktura.exe.config
+H:\2023-2024\11.c csop 2 AAF\2024_02_22_Struktura\2024_02_22_Struktura\bin\Debug\2024_02_22_Struktura.exe
+H:\2023-2024\11.c csop 2 AAF\2024_02_22_Struktura\2024_02_22_Struktura\bin\Debug\2024_02_22_Struktura.pdb
+H:\2023-2024\11.c csop 2 AAF\2024_02_22_Struktura\2024_02_22_Struktura\obj\Debug\2024_02_22_Struktura.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2024_02_22_Struktura\2024_02_22_Struktura\obj\Debug\2024_02_22_Struktura.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2024_02_22_Struktura\2024_02_22_Struktura\obj\Debug\2024_02_22_Struktura.exe
+H:\2023-2024\11.c csop 2 AAF\2024_02_22_Struktura\2024_02_22_Struktura\obj\Debug\2024_02_22_Struktura.pdb

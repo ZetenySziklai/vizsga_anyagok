@@ -1,0 +1,15 @@
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\2025_03_27 Notepad\bin\Debug\net8.0\2025_03_27 Notepad.exe
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\2025_03_27 Notepad\bin\Debug\net8.0\2025_03_27 Notepad.deps.json
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\2025_03_27 Notepad\bin\Debug\net8.0\2025_03_27 Notepad.runtimeconfig.json
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\2025_03_27 Notepad\bin\Debug\net8.0\2025_03_27 Notepad.dll
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\2025_03_27 Notepad\bin\Debug\net8.0\2025_03_27 Notepad.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\2025_03_27 Notepad\obj\Debug\net8.0\2025_03_27 Notepad.GeneratedMSBuildEditorConfig.editorconfig
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\2025_03_27 Notepad\obj\Debug\net8.0\2025_03_27 Notepad.AssemblyInfoInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\2025_03_27 Notepad\obj\Debug\net8.0\2025_03_27 Notepad.AssemblyInfo.cs
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\2025_03_27 Notepad\obj\Debug\net8.0\2025_03_27 Notepad.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\2025_03_27 Notepad\obj\Debug\net8.0\2025_03_27 Notepad.sourcelink.json
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\2025_03_27 Notepad\obj\Debug\net8.0\2025_03_27 Notepad.dll
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\2025_03_27 Notepad\obj\Debug\net8.0\refint\2025_03_27 Notepad.dll
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\2025_03_27 Notepad\obj\Debug\net8.0\2025_03_27 Notepad.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\2025_03_27 Notepad\obj\Debug\net8.0\2025_03_27 Notepad.genruntimeconfig.cache
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\2025_03_27 Notepad\obj\Debug\net8.0\ref\2025_03_27 Notepad.dll

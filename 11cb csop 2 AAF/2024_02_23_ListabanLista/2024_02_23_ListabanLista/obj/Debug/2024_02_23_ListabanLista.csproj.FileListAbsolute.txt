@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2024_02_23_ListabanLista\2024_02_23_ListabanLista\bin\Debug\2024_02_23_ListabanLista.exe.config
+H:\2023-2024\11.c csop 2 AAF\2024_02_23_ListabanLista\2024_02_23_ListabanLista\bin\Debug\2024_02_23_ListabanLista.exe
+H:\2023-2024\11.c csop 2 AAF\2024_02_23_ListabanLista\2024_02_23_ListabanLista\bin\Debug\2024_02_23_ListabanLista.pdb
+H:\2023-2024\11.c csop 2 AAF\2024_02_23_ListabanLista\2024_02_23_ListabanLista\obj\Debug\2024_02_23_ListabanLista.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2024_02_23_ListabanLista\2024_02_23_ListabanLista\obj\Debug\2024_02_23_ListabanLista.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2024_02_23_ListabanLista\2024_02_23_ListabanLista\obj\Debug\2024_02_23_ListabanLista.exe
+H:\2023-2024\11.c csop 2 AAF\2024_02_23_ListabanLista\2024_02_23_ListabanLista\obj\Debug\2024_02_23_ListabanLista.pdb

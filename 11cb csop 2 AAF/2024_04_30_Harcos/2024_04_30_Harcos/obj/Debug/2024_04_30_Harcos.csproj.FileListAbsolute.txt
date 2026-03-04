@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2024_04_30_Harcos\2024_04_30_Harcos\bin\Debug\2024_04_30_Harcos.exe.config
+H:\2023-2024\11.c csop 2 AAF\2024_04_30_Harcos\2024_04_30_Harcos\bin\Debug\2024_04_30_Harcos.exe
+H:\2023-2024\11.c csop 2 AAF\2024_04_30_Harcos\2024_04_30_Harcos\bin\Debug\2024_04_30_Harcos.pdb
+H:\2023-2024\11.c csop 2 AAF\2024_04_30_Harcos\2024_04_30_Harcos\obj\Debug\2024_04_30_Harcos.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2024_04_30_Harcos\2024_04_30_Harcos\obj\Debug\2024_04_30_Harcos.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2024_04_30_Harcos\2024_04_30_Harcos\obj\Debug\2024_04_30_Harcos.exe
+H:\2023-2024\11.c csop 2 AAF\2024_04_30_Harcos\2024_04_30_Harcos\obj\Debug\2024_04_30_Harcos.pdb

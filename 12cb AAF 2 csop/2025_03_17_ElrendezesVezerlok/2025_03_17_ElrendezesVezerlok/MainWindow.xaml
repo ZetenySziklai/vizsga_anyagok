@@ -1,0 +1,54 @@
+﻿<Window x:Class="_2025_03_17_ElrendezesVezerlok.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2025_03_17_ElrendezesVezerlok"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <!--<Canvas>
+        <Button Content="Gomb" Canvas.Left="10" Canvas.Top="10" Width="70"/>
+    </Canvas>-->
+
+    <!--<StackPanel>
+        <Button Content="gomb1"/>
+        <Button Content="gomb2"/>
+        <Button Content="gomb3" Height="67"/>
+    </StackPanel>-->
+
+    <!--<WrapPanel>
+        <Button Content="gomb1" Width="172"/>
+        <Button Content="gomb2" Width="95"/>
+        <Button Content="gomb3" Width="172"/>
+        <Button Content="gomb4" Width="172"/>
+        <Button Content="gomb5" Width="172"/>
+        <Button Content="gomb6" Width="172"/>
+    </WrapPanel>-->
+
+    <!--<DockPanel>
+        <Button DockPanel.Dock="Bottom" Content="gomb4" Height="117"/>
+        <Button DockPanel.Dock="Left" Content="gomb1" Width="171"/>
+        <Button DockPanel.Dock="Top" Content="gomb2" Height="165"/>
+        <Button DockPanel.Dock="Right" Content="gomb3" Width="237"/>
+        <Button Content="gomb5"/>
+    </DockPanel>-->
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="137*"/>
+            <RowDefinition Height="170*"/>
+            <RowDefinition Height="127*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="205*"/>
+            <ColumnDefinition Width="390*"/>
+            <ColumnDefinition Width="104*"/>
+            <ColumnDefinition Width="101*"/>
+        </Grid.ColumnDefinitions>
+        <Button Grid.Column="2" Content="gomb" Grid.Row="1" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <ListBox Grid.RowSpan="3" Background="#FFFBE6E6">
+            <ListBoxItem>item1</ListBoxItem>
+        </ListBox>            
+    </Grid>
+
+</Window>

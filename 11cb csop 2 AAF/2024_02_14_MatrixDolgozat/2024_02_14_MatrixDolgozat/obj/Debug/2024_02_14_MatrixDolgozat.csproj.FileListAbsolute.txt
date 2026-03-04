@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2024_02_14_MatrixDolgozat\2024_02_14_MatrixDolgozat\bin\Debug\2024_02_14_MatrixDolgozat.exe.config
+H:\2023-2024\11.c csop 2 AAF\2024_02_14_MatrixDolgozat\2024_02_14_MatrixDolgozat\bin\Debug\2024_02_14_MatrixDolgozat.exe
+H:\2023-2024\11.c csop 2 AAF\2024_02_14_MatrixDolgozat\2024_02_14_MatrixDolgozat\bin\Debug\2024_02_14_MatrixDolgozat.pdb
+H:\2023-2024\11.c csop 2 AAF\2024_02_14_MatrixDolgozat\2024_02_14_MatrixDolgozat\obj\Debug\2024_02_14_MatrixDolgozat.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2024_02_14_MatrixDolgozat\2024_02_14_MatrixDolgozat\obj\Debug\2024_02_14_MatrixDolgozat.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2024_02_14_MatrixDolgozat\2024_02_14_MatrixDolgozat\obj\Debug\2024_02_14_MatrixDolgozat.exe
+H:\2023-2024\11.c csop 2 AAF\2024_02_14_MatrixDolgozat\2024_02_14_MatrixDolgozat\obj\Debug\2024_02_14_MatrixDolgozat.pdb

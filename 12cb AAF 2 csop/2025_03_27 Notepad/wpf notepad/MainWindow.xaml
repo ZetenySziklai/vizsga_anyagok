@@ -1,0 +1,41 @@
+﻿<Window x:Class="wpf_notepad.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf_notepad"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Window.InputBindings>
+        <KeyBinding Command="Close" Modifiers="Ctrl" Key="q"/>
+        <KeyBinding Command="{Binding NewTabItem}" Modifiers="Ctrl" Key="n"/>
+    </Window.InputBindings>
+    
+    <Window.CommandBindings>
+        <CommandBinding Command="Save" Executed="Save_Executed"/>
+        <CommandBinding Command="Open" Executed="Open_Executed"/>
+        <CommandBinding Command="Close" Executed="Close_Executed"/>
+    </Window.CommandBindings>
+    
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="File">
+                <MenuItem Header="Save" Command="Save"/>
+                <MenuItem Header="Open" Command="Open"/>
+                <MenuItem Header="New" InputGestureText="Ctrl+N"/>
+                <MenuItem x:Name="menuItemExit" Header="Exit" Command="Close" />
+            </MenuItem>
+        </Menu>
+        <ToolBar DockPanel.Dock="Top">
+            <Button Content="Save" Command="Save"/>
+            <Button Content="Open" Command="Open"/>
+            <Button Content="New" Command="{Binding NewTabItem}"/>
+        </ToolBar>
+        <TabControl x:Name="tabcontrol" DockPanel.Dock="Bottom">
+            <TabItem Header="new file" MouseDown="TabItem_MouseDown">
+                <RichTextBox/>
+            </TabItem>
+        </TabControl>
+    </DockPanel>
+</Window>

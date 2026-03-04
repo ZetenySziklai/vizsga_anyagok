@@ -1,0 +1,60 @@
+Kutya fajta;Év;regisztrálás dátuma
+Német juhász;11;2020-03-03
+Keverék;14;2019-08-29
+Keverék;10;2018-10-30
+Német juhász;15;2015-01-05
+Német juhász;13;2017-05-14
+Keverék;3;2021-10-09
+Keverék;3;2019-03-15
+Német juhász;12;2017-06-15
+Keverék;2;2022-01-02
+Német juhász;14;2025-09-09
+Német juhász;4;2019-02-11
+Keverék;7;2020-04-04
+Német juhász;0;2015-05-25
+Német juhász;15;2022-10-27
+Német juhász;3;2021-03-05
+Keverék;3;2016-11-23
+Keverék;7;2024-08-04
+Keverék;14;2018-05-05
+Keverék;9;2024-02-06
+Keverék;10;2020-01-29
+Keverék;9;2024-10-27
+Német juhász;9;2018-05-05
+Német juhász;12;2020-12-14
+Keverék;9;2021-10-05
+Német juhász;8;2025-09-30
+Keverék;13;2022-11-02
+Német juhász;11;2019-02-14
+Német juhász;3;2019-06-23
+Keverék;1;2016-01-15
+Német juhász;4;2023-05-02
+Német juhász;5;2020-04-30
+Német juhász;3;2015-04-18
+Keverék;8;2025-06-27
+Német juhász;13;2017-09-18
+Német juhász;14;2021-12-01
+Német juhász;9;2023-08-09
+Keverék;14;2015-09-25
+Keverék;0;2017-06-28
+Keverék;8;2016-07-01
+Német juhász;9;2022-12-25
+Keverék;8;2019-03-24
+Német juhász;9;2017-05-28
+Német juhász;2;2021-06-06
+Német juhász;3;2020-07-06
+Német juhász;8;2021-05-09
+Német juhász;10;2016-10-18
+Német juhász;5;2023-01-18
+Keverék;2;2015-10-31
+Német juhász;9;2022-06-27
+Keverék;8;2019-11-06
+Keverék;12;2015-12-12
+Keverék;5;2015-12-28
+Keverék;2;2015-08-23
+Német juhász;4;2020-04-05
+Német juhász;15;2020-11-17
+Német juhász;14;2022-11-11
+Keverék;8;2022-11-07
+Német juhász;1;2020-02-15
+Keverék;13;2018-11-28

@@ -1,0 +1,23 @@
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\bin\Debug\net8.0-windows\2025_03_13 Alapok2.exe
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\bin\Debug\net8.0-windows\2025_03_13 Alapok2.deps.json
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\bin\Debug\net8.0-windows\2025_03_13 Alapok2.runtimeconfig.json
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\bin\Debug\net8.0-windows\2025_03_13 Alapok2.dll
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\bin\Debug\net8.0-windows\2025_03_13 Alapok2.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\App.g.cs
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\2025_03_13 Alapok2_MarkupCompile.cache
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\2025_03_13 Alapok2_MarkupCompile.lref
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\MainWindow.baml
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\2025_03_13 Alapok2.g.resources
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\2025_03_13 Alapok2.GeneratedMSBuildEditorConfig.editorconfig
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\2025_03_13 Alapok2.AssemblyInfoInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\2025_03_13 Alapok2.AssemblyInfo.cs
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\2025_03_13 Alapok2.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\2025_03_13 Alapok2.sourcelink.json
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\2025_03_13 Alapok2.dll
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\refint\2025_03_13 Alapok2.dll
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\2025_03_13 Alapok2.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\2025_03_13 Alapok2.genruntimeconfig.cache
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\ref\2025_03_13 Alapok2.dll
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\MellekAblak.g.cs
+H:\2024-2025\12.cb AAF 2csop\2025_03_13 Alapok2\obj\Debug\net8.0-windows\MellekAblak.baml

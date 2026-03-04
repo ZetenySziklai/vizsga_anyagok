@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2024_04_18_OOPalapok\2024_04_18_OOPalapok\bin\Debug\2024_04_18_OOPalapok.exe.config
+H:\2023-2024\11.c csop 2 AAF\2024_04_18_OOPalapok\2024_04_18_OOPalapok\bin\Debug\2024_04_18_OOPalapok.exe
+H:\2023-2024\11.c csop 2 AAF\2024_04_18_OOPalapok\2024_04_18_OOPalapok\bin\Debug\2024_04_18_OOPalapok.pdb
+H:\2023-2024\11.c csop 2 AAF\2024_04_18_OOPalapok\2024_04_18_OOPalapok\obj\Debug\2024_04_18_OOPalapok.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2024_04_18_OOPalapok\2024_04_18_OOPalapok\obj\Debug\2024_04_18_OOPalapok.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2024_04_18_OOPalapok\2024_04_18_OOPalapok\obj\Debug\2024_04_18_OOPalapok.exe
+H:\2023-2024\11.c csop 2 AAF\2024_04_18_OOPalapok\2024_04_18_OOPalapok\obj\Debug\2024_04_18_OOPalapok.pdb

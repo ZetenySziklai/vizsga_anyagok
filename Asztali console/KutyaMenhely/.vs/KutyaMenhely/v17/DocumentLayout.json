@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali console\\KutyaMenhely\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|KutyaMenhely\\KutyaMenhely.csproj|c:\\users\\sziklai.zeteny\\desktop\\vizsgahoz anyagok\\asztali console\\kutyamenhely\\kutyamenhely\\nemetjuhasz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|KutyaMenhely\\KutyaMenhely.csproj|solutionrelative:kutyamenhely\\nemetjuhasz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|KutyaMenhely\\KutyaMenhely.csproj|c:\\users\\sziklai.zeteny\\desktop\\vizsgahoz anyagok\\asztali console\\kutyamenhely\\kutyamenhely\\mentokutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|KutyaMenhely\\KutyaMenhely.csproj|solutionrelative:kutyamenhely\\mentokutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE001B5-9B27-415C-A86E-E94730276733}|KutyaMenhelyTeszetk\\KutyaMenhelyTeszetk.csproj|c:\\users\\sziklai.zeteny\\desktop\\vizsgahoz anyagok\\asztali console\\kutyamenhely\\kutyamenhelyteszetk\\tesztek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE001B5-9B27-415C-A86E-E94730276733}|KutyaMenhelyTeszetk\\KutyaMenhelyTeszetk.csproj|solutionrelative:kutyamenhelyteszetk\\tesztek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|KutyaMenhely\\KutyaMenhely.csproj|c:\\users\\sziklai.zeteny\\desktop\\vizsgahoz anyagok\\asztali console\\kutyamenhely\\kutyamenhely\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|KutyaMenhely\\KutyaMenhely.csproj|solutionrelative:kutyamenhely\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NemetJuhasz.cs",
+              "DocumentMoniker": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali console\\KutyaMenhely\\KutyaMenhely\\NemetJuhasz.cs",
+              "RelativeDocumentMoniker": "KutyaMenhely\\NemetJuhasz.cs",
+              "ToolTip": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali console\\KutyaMenhely\\KutyaMenhely\\NemetJuhasz.cs",
+              "RelativeToolTip": "KutyaMenhely\\NemetJuhasz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:00:33.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mentokutya.cs",
+              "DocumentMoniker": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali console\\KutyaMenhely\\KutyaMenhely\\Mentokutya.cs",
+              "RelativeDocumentMoniker": "KutyaMenhely\\Mentokutya.cs",
+              "ToolTip": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali console\\KutyaMenhely\\KutyaMenhely\\Mentokutya.cs",
+              "RelativeToolTip": "KutyaMenhely\\Mentokutya.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T07:50:16.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tesztek.cs",
+              "DocumentMoniker": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali console\\KutyaMenhely\\KutyaMenhelyTeszetk\\Tesztek.cs",
+              "RelativeDocumentMoniker": "KutyaMenhelyTeszetk\\Tesztek.cs",
+              "ToolTip": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali console\\KutyaMenhely\\KutyaMenhelyTeszetk\\Tesztek.cs",
+              "RelativeToolTip": "KutyaMenhelyTeszetk\\Tesztek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:41:16.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali console\\KutyaMenhely\\KutyaMenhely\\Program.cs",
+              "RelativeDocumentMoniker": "KutyaMenhely\\Program.cs",
+              "ToolTip": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali console\\KutyaMenhely\\KutyaMenhely\\Program.cs",
+              "RelativeToolTip": "KutyaMenhely\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:40:37.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

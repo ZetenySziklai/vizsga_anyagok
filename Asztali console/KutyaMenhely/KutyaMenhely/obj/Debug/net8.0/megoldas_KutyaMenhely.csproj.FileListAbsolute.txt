@@ -1,0 +1,28 @@
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\bin\Debug\net8.0\megoldas_KutyaMenhely.exe
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\bin\Debug\net8.0\megoldas_KutyaMenhely.deps.json
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\bin\Debug\net8.0\megoldas_KutyaMenhely.runtimeconfig.json
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\bin\Debug\net8.0\megoldas_KutyaMenhely.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\bin\Debug\net8.0\megoldas_KutyaMenhely.pdb
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\megoldas_KutyaMenhely.GeneratedMSBuildEditorConfig.editorconfig
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\megoldas_KutyaMenhely.AssemblyInfoInputs.cache
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\megoldas_KutyaMenhely.AssemblyInfo.cs
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\megoldas_KutyaMenhely.csproj.CoreCompileInputs.cache
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\megoldas_KutyaMenhely.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\refint\megoldas_KutyaMenhely.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\megoldas_KutyaMenhely.pdb
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\megoldas_KutyaMenhely.genruntimeconfig.cache
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\ref\megoldas_KutyaMenhely.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\bin\Debug\net8.0\megoldas_KutyaMenhely.exe
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\bin\Debug\net8.0\megoldas_KutyaMenhely.deps.json
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\bin\Debug\net8.0\megoldas_KutyaMenhely.runtimeconfig.json
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\bin\Debug\net8.0\megoldas_KutyaMenhely.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\bin\Debug\net8.0\megoldas_KutyaMenhely.pdb
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\megoldas_KutyaMenhely.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\megoldas_KutyaMenhely.AssemblyInfoInputs.cache
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\megoldas_KutyaMenhely.AssemblyInfo.cs
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\megoldas_KutyaMenhely.csproj.CoreCompileInputs.cache
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\megoldas_KutyaMenhely.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\refint\megoldas_KutyaMenhely.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\megoldas_KutyaMenhely.pdb
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\megoldas_KutyaMenhely.genruntimeconfig.cache
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\megoldas_KutyaMenhely\obj\Debug\net8.0\ref\megoldas_KutyaMenhely.dll

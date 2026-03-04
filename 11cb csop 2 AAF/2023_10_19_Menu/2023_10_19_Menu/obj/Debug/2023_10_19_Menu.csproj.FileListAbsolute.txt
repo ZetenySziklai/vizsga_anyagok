@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2023_10_19_Menu\2023_10_19_Menu\bin\Debug\2023_10_19_Menu.exe.config
+H:\2023-2024\11.c csop 2 AAF\2023_10_19_Menu\2023_10_19_Menu\bin\Debug\2023_10_19_Menu.exe
+H:\2023-2024\11.c csop 2 AAF\2023_10_19_Menu\2023_10_19_Menu\bin\Debug\2023_10_19_Menu.pdb
+H:\2023-2024\11.c csop 2 AAF\2023_10_19_Menu\2023_10_19_Menu\obj\Debug\2023_10_19_Menu.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2023_10_19_Menu\2023_10_19_Menu\obj\Debug\2023_10_19_Menu.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2023_10_19_Menu\2023_10_19_Menu\obj\Debug\2023_10_19_Menu.exe
+H:\2023-2024\11.c csop 2 AAF\2023_10_19_Menu\2023_10_19_Menu\obj\Debug\2023_10_19_Menu.pdb

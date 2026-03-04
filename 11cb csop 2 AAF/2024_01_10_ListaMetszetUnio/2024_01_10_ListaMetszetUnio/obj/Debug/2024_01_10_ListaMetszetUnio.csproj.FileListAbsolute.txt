@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2024_01_10_ListaMetszetUnio\2024_01_10_ListaMetszetUnio\bin\Debug\2024_01_10_ListaMetszetUnio.exe.config
+H:\2023-2024\11.c csop 2 AAF\2024_01_10_ListaMetszetUnio\2024_01_10_ListaMetszetUnio\bin\Debug\2024_01_10_ListaMetszetUnio.exe
+H:\2023-2024\11.c csop 2 AAF\2024_01_10_ListaMetszetUnio\2024_01_10_ListaMetszetUnio\bin\Debug\2024_01_10_ListaMetszetUnio.pdb
+H:\2023-2024\11.c csop 2 AAF\2024_01_10_ListaMetszetUnio\2024_01_10_ListaMetszetUnio\obj\Debug\2024_01_10_ListaMetszetUnio.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2024_01_10_ListaMetszetUnio\2024_01_10_ListaMetszetUnio\obj\Debug\2024_01_10_ListaMetszetUnio.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2024_01_10_ListaMetszetUnio\2024_01_10_ListaMetszetUnio\obj\Debug\2024_01_10_ListaMetszetUnio.exe
+H:\2023-2024\11.c csop 2 AAF\2024_01_10_ListaMetszetUnio\2024_01_10_ListaMetszetUnio\obj\Debug\2024_01_10_ListaMetszetUnio.pdb

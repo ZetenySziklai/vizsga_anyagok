@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2023_10_19_Tomb2\2023_10_19_Tomb2\bin\Debug\2023_10_19_Tomb2.exe.config
+H:\2023-2024\11.c csop 2 AAF\2023_10_19_Tomb2\2023_10_19_Tomb2\bin\Debug\2023_10_19_Tomb2.exe
+H:\2023-2024\11.c csop 2 AAF\2023_10_19_Tomb2\2023_10_19_Tomb2\bin\Debug\2023_10_19_Tomb2.pdb
+H:\2023-2024\11.c csop 2 AAF\2023_10_19_Tomb2\2023_10_19_Tomb2\obj\Debug\2023_10_19_Tomb2.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2023_10_19_Tomb2\2023_10_19_Tomb2\obj\Debug\2023_10_19_Tomb2.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2023_10_19_Tomb2\2023_10_19_Tomb2\obj\Debug\2023_10_19_Tomb2.exe
+H:\2023-2024\11.c csop 2 AAF\2023_10_19_Tomb2\2023_10_19_Tomb2\obj\Debug\2023_10_19_Tomb2.pdb

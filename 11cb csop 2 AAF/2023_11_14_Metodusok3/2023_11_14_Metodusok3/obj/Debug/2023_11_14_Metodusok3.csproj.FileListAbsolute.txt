@@ -1,0 +1,7 @@
+h:\2023-2024\11.c csop 2 AAF\2023_11_14_Metodusok3\2023_11_14_Metodusok3\bin\Debug\2023_11_14_Metodusok3.exe.config
+h:\2023-2024\11.c csop 2 AAF\2023_11_14_Metodusok3\2023_11_14_Metodusok3\bin\Debug\2023_11_14_Metodusok3.exe
+h:\2023-2024\11.c csop 2 AAF\2023_11_14_Metodusok3\2023_11_14_Metodusok3\bin\Debug\2023_11_14_Metodusok3.pdb
+h:\2023-2024\11.c csop 2 AAF\2023_11_14_Metodusok3\2023_11_14_Metodusok3\obj\Debug\2023_11_14_Metodusok3.csproj.AssemblyReference.cache
+h:\2023-2024\11.c csop 2 AAF\2023_11_14_Metodusok3\2023_11_14_Metodusok3\obj\Debug\2023_11_14_Metodusok3.csproj.CoreCompileInputs.cache
+h:\2023-2024\11.c csop 2 AAF\2023_11_14_Metodusok3\2023_11_14_Metodusok3\obj\Debug\2023_11_14_Metodusok3.exe
+h:\2023-2024\11.c csop 2 AAF\2023_11_14_Metodusok3\2023_11_14_Metodusok3\obj\Debug\2023_11_14_Metodusok3.pdb

@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2023_11_23_Metszet\2023_11_23_Metszet\bin\Debug\2023_11_23_Metszet.exe.config
+H:\2023-2024\11.c csop 2 AAF\2023_11_23_Metszet\2023_11_23_Metszet\bin\Debug\2023_11_23_Metszet.exe
+H:\2023-2024\11.c csop 2 AAF\2023_11_23_Metszet\2023_11_23_Metszet\bin\Debug\2023_11_23_Metszet.pdb
+H:\2023-2024\11.c csop 2 AAF\2023_11_23_Metszet\2023_11_23_Metszet\obj\Debug\2023_11_23_Metszet.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2023_11_23_Metszet\2023_11_23_Metszet\obj\Debug\2023_11_23_Metszet.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2023_11_23_Metszet\2023_11_23_Metszet\obj\Debug\2023_11_23_Metszet.exe
+H:\2023-2024\11.c csop 2 AAF\2023_11_23_Metszet\2023_11_23_Metszet\obj\Debug\2023_11_23_Metszet.pdb

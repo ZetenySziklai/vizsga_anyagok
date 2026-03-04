@@ -1,0 +1,210 @@
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\CoverletSourceRootsMapping_KutyaMenhelyTeszetk
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\testhost.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\megoldas_KutyaMenhely.deps.json
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\megoldas_KutyaMenhely.runtimeconfig.json
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\megoldas_KutyaMenhely.exe
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\testhost.exe
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\nunit.engine.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\nunit.engine.api.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\nunit.engine.core.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\testcentric.engine.metadata.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\KutyaMenhelyTeszetk.deps.json
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\KutyaMenhelyTeszetk.runtimeconfig.json
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\KutyaMenhelyTeszetk.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\KutyaMenhelyTeszetk.pdb
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Newtonsoft.Json.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\NuGet.Frameworks.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\nunit.framework.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\megoldas_KutyaMenhely.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\megoldas_KutyaMenhely.pdb
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMenhelyTeszetk.csproj.AssemblyReference.cache
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMenhelyTeszetk.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMenhelyTeszetk.AssemblyInfoInputs.cache
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMenhelyTeszetk.AssemblyInfo.cs
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMenhelyTeszetk.csproj.CoreCompileInputs.cache
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMen.77890E09.Up2Date
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMenhelyTeszetk.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\refint\KutyaMenhelyTeszetk.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMenhelyTeszetk.pdb
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMenhelyTeszetk.genruntimeconfig.cache
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\ref\KutyaMenhelyTeszetk.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\CoverletSourceRootsMapping_KutyaMenhelyTeszetk
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\testhost.exe
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\testhost.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\nunit.engine.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\nunit.engine.api.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\nunit.engine.core.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\testcentric.engine.metadata.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\megoldas_KutyaMenhely.deps.json
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\megoldas_KutyaMenhely.runtimeconfig.json
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\megoldas_KutyaMenhely.exe
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\KutyaMenhelyTeszetk.deps.json
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\KutyaMenhelyTeszetk.runtimeconfig.json
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\KutyaMenhelyTeszetk.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\KutyaMenhelyTeszetk.pdb
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\NuGet.Frameworks.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\nunit.framework.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\megoldas_KutyaMenhely.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\bin\Debug\net8.0\megoldas_KutyaMenhely.pdb
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMenhelyTeszetk.csproj.AssemblyReference.cache
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMenhelyTeszetk.GeneratedMSBuildEditorConfig.editorconfig
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMenhelyTeszetk.AssemblyInfoInputs.cache
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMenhelyTeszetk.AssemblyInfo.cs
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMenhelyTeszetk.csproj.CoreCompileInputs.cache
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMen.77890E09.Up2Date
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMenhelyTeszetk.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\refint\KutyaMenhelyTeszetk.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMenhelyTeszetk.pdb
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\KutyaMenhelyTeszetk.genruntimeconfig.cache
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali console\megoldas_KutyaMenhely\KutyaMenhelyTeszetk\obj\Debug\net8.0\ref\KutyaMenhelyTeszetk.dll

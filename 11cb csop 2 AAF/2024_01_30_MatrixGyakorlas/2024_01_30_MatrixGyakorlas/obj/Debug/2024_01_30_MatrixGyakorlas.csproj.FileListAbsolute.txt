@@ -1,0 +1,7 @@
+h:\2023-2024\11.c csop 2 AAF\2024_01_30_MatrixGyakorlas\2024_01_30_MatrixGyakorlas\bin\Debug\2024_01_30_MatrixGyakorlas.exe.config
+h:\2023-2024\11.c csop 2 AAF\2024_01_30_MatrixGyakorlas\2024_01_30_MatrixGyakorlas\bin\Debug\2024_01_30_MatrixGyakorlas.exe
+h:\2023-2024\11.c csop 2 AAF\2024_01_30_MatrixGyakorlas\2024_01_30_MatrixGyakorlas\bin\Debug\2024_01_30_MatrixGyakorlas.pdb
+h:\2023-2024\11.c csop 2 AAF\2024_01_30_MatrixGyakorlas\2024_01_30_MatrixGyakorlas\obj\Debug\2024_01_30_MatrixGyakorlas.csproj.AssemblyReference.cache
+h:\2023-2024\11.c csop 2 AAF\2024_01_30_MatrixGyakorlas\2024_01_30_MatrixGyakorlas\obj\Debug\2024_01_30_MatrixGyakorlas.csproj.CoreCompileInputs.cache
+h:\2023-2024\11.c csop 2 AAF\2024_01_30_MatrixGyakorlas\2024_01_30_MatrixGyakorlas\obj\Debug\2024_01_30_MatrixGyakorlas.exe
+h:\2023-2024\11.c csop 2 AAF\2024_01_30_MatrixGyakorlas\2024_01_30_MatrixGyakorlas\obj\Debug\2024_01_30_MatrixGyakorlas.pdb

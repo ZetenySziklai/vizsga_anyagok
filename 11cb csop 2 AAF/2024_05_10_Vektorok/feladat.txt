@@ -1,0 +1,14 @@
+1. Hozzon létre egy Vektor osztályt a következő beállításokkal:  
+Mezők: valós x,y; - csak az osztályon belül lehet az értéküket változtatni. De kívülről lehessen lekérni az értékeit.
+
+Konstr: Kívülről adja át az értékeket az adattagoknak.
+
+Metódusok:
+	- FV: Hossz meghatározása = Gyök(x*x+y*y)
+	- FV: Meredekség = y/x; (tangens alpha)
+	- FV: AlphaRadian = ArchusTanges(meredekség)
+	- FV: AlphaFok = AlphaRadian * 180 / Pi
+2. közös meghajtón OOP feladatok mappában vektorok.csv
+	- Fájlbeolvasás
+	- Adja meg a vektorok hosszának átlagát!
+	- Van-e olyan vektor, ami rajta van valamelyik tengelyen? (Az egyik érték 0)*/

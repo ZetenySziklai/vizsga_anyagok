@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\--== K\u00D6ZG\u00C1Z\\2025-2026\\Minta vizsgafeladatsor\\Asztali console\\megoldas_KutyaMenhely\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|megoldas_KutyaMenhely\\megoldas_KutyaMenhely.csproj|g:\\--== k\u00F6zg\u00E1z\\2025-2026\\minta vizsgafeladatsor\\asztali console\\megoldas_kutyamenhely\\megoldas_kutyamenhely\\menhely.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|megoldas_KutyaMenhely\\megoldas_KutyaMenhely.csproj|solutionrelative:megoldas_kutyamenhely\\menhely.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|megoldas_KutyaMenhely\\megoldas_KutyaMenhely.csproj|g:\\--== k\u00F6zg\u00E1z\\2025-2026\\minta vizsgafeladatsor\\asztali console\\megoldas_kutyamenhely\\megoldas_kutyamenhely\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|megoldas_KutyaMenhely\\megoldas_KutyaMenhely.csproj|solutionrelative:megoldas_kutyamenhely\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|megoldas_KutyaMenhely\\megoldas_KutyaMenhely.csproj|g:\\--== k\u00F6zg\u00E1z\\2025-2026\\minta vizsgafeladatsor\\asztali console\\megoldas_kutyamenhely\\megoldas_kutyamenhely\\keverekkutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|megoldas_KutyaMenhely\\megoldas_KutyaMenhely.csproj|solutionrelative:megoldas_kutyamenhely\\keverekkutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|megoldas_KutyaMenhely\\megoldas_KutyaMenhely.csproj|g:\\--== k\u00F6zg\u00E1z\\2025-2026\\minta vizsgafeladatsor\\asztali console\\megoldas_kutyamenhely\\megoldas_kutyamenhely\\mentokutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|megoldas_KutyaMenhely\\megoldas_KutyaMenhely.csproj|solutionrelative:megoldas_kutyamenhely\\mentokutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|megoldas_KutyaMenhely\\megoldas_KutyaMenhely.csproj|g:\\--== k\u00F6zg\u00E1z\\2025-2026\\minta vizsgafeladatsor\\asztali console\\megoldas_kutyamenhely\\megoldas_kutyamenhely\\nemetjuhasz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|megoldas_KutyaMenhely\\megoldas_KutyaMenhely.csproj|solutionrelative:megoldas_kutyamenhely\\nemetjuhasz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|megoldas_KutyaMenhely\\megoldas_KutyaMenhely.csproj|g:\\--== k\u00F6zg\u00E1z\\2025-2026\\minta vizsgafeladatsor\\asztali console\\megoldas_kutyamenhely\\megoldas_kutyamenhely\\iallat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679502C5-E98A-4A56-9D71-0CE1E219348F}|megoldas_KutyaMenhely\\megoldas_KutyaMenhely.csproj|solutionrelative:megoldas_kutyamenhely\\iallat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE001B5-9B27-415C-A86E-E94730276733}|KutyaMenhelyTeszetk\\KutyaMenhelyTeszetk.csproj|g:\\--== k\u00F6zg\u00E1z\\2025-2026\\minta vizsgafeladatsor\\asztali console\\megoldas_kutyamenhely\\kutyamenhelyteszetk\\tesztek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE001B5-9B27-415C-A86E-E94730276733}|KutyaMenhelyTeszetk\\KutyaMenhelyTeszetk.csproj|solutionrelative:kutyamenhelyteszetk\\tesztek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menhely.cs",
+              "DocumentMoniker": "G:\\--== K\u00D6ZG\u00C1Z\\2025-2026\\Minta vizsgafeladatsor\\Asztali console\\megoldas_KutyaMenhely\\megoldas_KutyaMenhely\\Menhely.cs",
+              "RelativeDocumentMoniker": "megoldas_KutyaMenhely\\Menhely.cs",
+              "ToolTip": "G:\\--== K\u00D6ZG\u00C1Z\\2025-2026\\Minta vizsgafeladatsor\\Asztali console\\megoldas_KutyaMenhely\\megoldas_KutyaMenhely\\Menhely.cs",
+              "RelativeToolTip": "megoldas_KutyaMenhely\\Menhely.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:58:08.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tesztek.cs",
+              "DocumentMoniker": "G:\\--== K\u00D6ZG\u00C1Z\\2025-2026\\Minta vizsgafeladatsor\\Asztali console\\megoldas_KutyaMenhely\\KutyaMenhelyTeszetk\\Tesztek.cs",
+              "RelativeDocumentMoniker": "KutyaMenhelyTeszetk\\Tesztek.cs",
+              "ToolTip": "G:\\--== K\u00D6ZG\u00C1Z\\2025-2026\\Minta vizsgafeladatsor\\Asztali console\\megoldas_KutyaMenhely\\KutyaMenhelyTeszetk\\Tesztek.cs",
+              "RelativeToolTip": "KutyaMenhelyTeszetk\\Tesztek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:31:01.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeverekKutya.cs",
+              "DocumentMoniker": "G:\\--== K\u00D6ZG\u00C1Z\\2025-2026\\Minta vizsgafeladatsor\\Asztali console\\megoldas_KutyaMenhely\\megoldas_KutyaMenhely\\KeverekKutya.cs",
+              "RelativeDocumentMoniker": "megoldas_KutyaMenhely\\KeverekKutya.cs",
+              "ToolTip": "G:\\--== K\u00D6ZG\u00C1Z\\2025-2026\\Minta vizsgafeladatsor\\Asztali console\\megoldas_KutyaMenhely\\megoldas_KutyaMenhely\\KeverekKutya.cs",
+              "RelativeToolTip": "megoldas_KutyaMenhely\\KeverekKutya.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:16:04.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NemetJuhasz.cs",
+              "DocumentMoniker": "G:\\--== K\u00D6ZG\u00C1Z\\2025-2026\\Minta vizsgafeladatsor\\Asztali console\\megoldas_KutyaMenhely\\megoldas_KutyaMenhely\\NemetJuhasz.cs",
+              "RelativeDocumentMoniker": "megoldas_KutyaMenhely\\NemetJuhasz.cs",
+              "ToolTip": "G:\\--== K\u00D6ZG\u00C1Z\\2025-2026\\Minta vizsgafeladatsor\\Asztali console\\megoldas_KutyaMenhely\\megoldas_KutyaMenhely\\NemetJuhasz.cs",
+              "RelativeToolTip": "megoldas_KutyaMenhely\\NemetJuhasz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:07:50.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MentoKutya.cs",
+              "DocumentMoniker": "G:\\--== K\u00D6ZG\u00C1Z\\2025-2026\\Minta vizsgafeladatsor\\Asztali console\\megoldas_KutyaMenhely\\megoldas_KutyaMenhely\\MentoKutya.cs",
+              "RelativeDocumentMoniker": "megoldas_KutyaMenhely\\MentoKutya.cs",
+              "ToolTip": "G:\\--== K\u00D6ZG\u00C1Z\\2025-2026\\Minta vizsgafeladatsor\\Asztali console\\megoldas_KutyaMenhely\\megoldas_KutyaMenhely\\MentoKutya.cs",
+              "RelativeToolTip": "megoldas_KutyaMenhely\\MentoKutya.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAMwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:51:23.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAllat.cs",
+              "DocumentMoniker": "G:\\--== K\u00D6ZG\u00C1Z\\2025-2026\\Minta vizsgafeladatsor\\Asztali console\\megoldas_KutyaMenhely\\megoldas_KutyaMenhely\\IAllat.cs",
+              "RelativeDocumentMoniker": "megoldas_KutyaMenhely\\IAllat.cs",
+              "ToolTip": "G:\\--== K\u00D6ZG\u00C1Z\\2025-2026\\Minta vizsgafeladatsor\\Asztali console\\megoldas_KutyaMenhely\\megoldas_KutyaMenhely\\IAllat.cs",
+              "RelativeToolTip": "megoldas_KutyaMenhely\\IAllat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:50:20.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\--== K\u00D6ZG\u00C1Z\\2025-2026\\Minta vizsgafeladatsor\\Asztali console\\megoldas_KutyaMenhely\\megoldas_KutyaMenhely\\Program.cs",
+              "RelativeDocumentMoniker": "megoldas_KutyaMenhely\\Program.cs",
+              "ToolTip": "G:\\--== K\u00D6ZG\u00C1Z\\2025-2026\\Minta vizsgafeladatsor\\Asztali console\\megoldas_KutyaMenhely\\megoldas_KutyaMenhely\\Program.cs",
+              "RelativeToolTip": "megoldas_KutyaMenhely\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:49:52.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

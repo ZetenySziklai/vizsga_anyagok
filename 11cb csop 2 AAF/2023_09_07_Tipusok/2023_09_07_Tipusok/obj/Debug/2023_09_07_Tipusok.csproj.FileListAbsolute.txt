@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2023_09_07_Tipusok\2023_09_07_Tipusok\bin\Debug\2023_09_07_Tipusok.exe.config
+H:\2023-2024\11.c csop 2 AAF\2023_09_07_Tipusok\2023_09_07_Tipusok\bin\Debug\2023_09_07_Tipusok.exe
+H:\2023-2024\11.c csop 2 AAF\2023_09_07_Tipusok\2023_09_07_Tipusok\bin\Debug\2023_09_07_Tipusok.pdb
+H:\2023-2024\11.c csop 2 AAF\2023_09_07_Tipusok\2023_09_07_Tipusok\obj\Debug\2023_09_07_Tipusok.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2023_09_07_Tipusok\2023_09_07_Tipusok\obj\Debug\2023_09_07_Tipusok.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2023_09_07_Tipusok\2023_09_07_Tipusok\obj\Debug\2023_09_07_Tipusok.exe
+H:\2023-2024\11.c csop 2 AAF\2023_09_07_Tipusok\2023_09_07_Tipusok\obj\Debug\2023_09_07_Tipusok.pdb

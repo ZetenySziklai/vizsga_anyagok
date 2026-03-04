@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2023_11_17_Rendezesek\2023_11_17_Rendezesek\bin\Debug\2023_11_17_Rendezesek.exe.config
+H:\2023-2024\11.c csop 2 AAF\2023_11_17_Rendezesek\2023_11_17_Rendezesek\bin\Debug\2023_11_17_Rendezesek.exe
+H:\2023-2024\11.c csop 2 AAF\2023_11_17_Rendezesek\2023_11_17_Rendezesek\bin\Debug\2023_11_17_Rendezesek.pdb
+H:\2023-2024\11.c csop 2 AAF\2023_11_17_Rendezesek\2023_11_17_Rendezesek\obj\Debug\2023_11_17_Rendezesek.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2023_11_17_Rendezesek\2023_11_17_Rendezesek\obj\Debug\2023_11_17_Rendezesek.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2023_11_17_Rendezesek\2023_11_17_Rendezesek\obj\Debug\2023_11_17_Rendezesek.exe
+H:\2023-2024\11.c csop 2 AAF\2023_11_17_Rendezesek\2023_11_17_Rendezesek\obj\Debug\2023_11_17_Rendezesek.pdb

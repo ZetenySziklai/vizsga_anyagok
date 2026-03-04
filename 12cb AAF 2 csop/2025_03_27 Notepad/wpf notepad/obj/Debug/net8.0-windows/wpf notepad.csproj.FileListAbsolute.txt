@@ -1,0 +1,22 @@
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\bin\Debug\net8.0-windows\wpf notepad.exe
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\bin\Debug\net8.0-windows\wpf notepad.deps.json
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\bin\Debug\net8.0-windows\wpf notepad.runtimeconfig.json
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\bin\Debug\net8.0-windows\wpf notepad.dll
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\bin\Debug\net8.0-windows\wpf notepad.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\obj\Debug\net8.0-windows\App.g.cs
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\obj\Debug\net8.0-windows\wpf notepad_MarkupCompile.cache
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\obj\Debug\net8.0-windows\wpf notepad_MarkupCompile.lref
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\obj\Debug\net8.0-windows\MainWindow.baml
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\obj\Debug\net8.0-windows\wpf notepad.g.resources
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\obj\Debug\net8.0-windows\wpf notepad.GeneratedMSBuildEditorConfig.editorconfig
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\obj\Debug\net8.0-windows\wpf notepad.AssemblyInfoInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\obj\Debug\net8.0-windows\wpf notepad.AssemblyInfo.cs
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\obj\Debug\net8.0-windows\wpf notepad.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\obj\Debug\net8.0-windows\wpf notepad.sourcelink.json
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\obj\Debug\net8.0-windows\wpf notepad.dll
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\obj\Debug\net8.0-windows\refint\wpf notepad.dll
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\obj\Debug\net8.0-windows\wpf notepad.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\obj\Debug\net8.0-windows\wpf notepad.genruntimeconfig.cache
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\obj\Debug\net8.0-windows\ref\wpf notepad.dll
+H:\2024-2025\12.cb AAF 2csop\2025_03_27 Notepad\wpf notepad\bin\Debug\net8.0-windows\wpf notepad.dll.config

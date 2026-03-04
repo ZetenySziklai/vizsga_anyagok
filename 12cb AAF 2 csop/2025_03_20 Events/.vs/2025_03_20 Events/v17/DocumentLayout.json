@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\t_Szabo Daniel\\12cb AAF 2 csop\\2025_03_20 Events\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF740558-CB40-4064-B2D5-A9454A907695}|2025_03_20 Events.csproj|k:\\t_szabo daniel\\12cb aaf 2 csop\\2025_03_20 events\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DF740558-CB40-4064-B2D5-A9454A907695}|2025_03_20 Events.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF740558-CB40-4064-B2D5-A9454A907695}|2025_03_20 Events.csproj|k:\\t_szabo daniel\\12cb aaf 2 csop\\2025_03_20 events\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF740558-CB40-4064-B2D5-A9454A907695}|2025_03_20 Events.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF740558-CB40-4064-B2D5-A9454A907695}|2025_03_20 Events.csproj|k:\\t_szabo daniel\\12cb aaf 2 csop\\2025_03_20 events\\myviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF740558-CB40-4064-B2D5-A9454A907695}|2025_03_20 Events.csproj|solutionrelative:myviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF740558-CB40-4064-B2D5-A9454A907695}|2025_03_20 Events.csproj|k:\\t_szabo daniel\\12cb aaf 2 csop\\2025_03_20 events\\actioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF740558-CB40-4064-B2D5-A9454A907695}|2025_03_20 Events.csproj|solutionrelative:actioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActionCommand.cs",
+              "DocumentMoniker": "K:\\t_Szabo Daniel\\12cb AAF 2 csop\\2025_03_20 Events\\ActionCommand.cs",
+              "RelativeDocumentMoniker": "ActionCommand.cs",
+              "ToolTip": "K:\\t_Szabo Daniel\\12cb AAF 2 csop\\2025_03_20 Events\\ActionCommand.cs",
+              "RelativeToolTip": "ActionCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:44:18.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyViewModel.cs",
+              "DocumentMoniker": "K:\\t_Szabo Daniel\\12cb AAF 2 csop\\2025_03_20 Events\\MyViewModel.cs",
+              "RelativeDocumentMoniker": "MyViewModel.cs",
+              "ToolTip": "K:\\t_Szabo Daniel\\12cb AAF 2 csop\\2025_03_20 Events\\MyViewModel.cs",
+              "RelativeToolTip": "MyViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:24:15.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "K:\\t_Szabo Daniel\\12cb AAF 2 csop\\2025_03_20 Events\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "K:\\t_Szabo Daniel\\12cb AAF 2 csop\\2025_03_20 Events\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-20T12:13:42.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "K:\\t_Szabo Daniel\\12cb AAF 2 csop\\2025_03_20 Events\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "K:\\t_Szabo Daniel\\12cb AAF 2 csop\\2025_03_20 Events\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:13:42.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

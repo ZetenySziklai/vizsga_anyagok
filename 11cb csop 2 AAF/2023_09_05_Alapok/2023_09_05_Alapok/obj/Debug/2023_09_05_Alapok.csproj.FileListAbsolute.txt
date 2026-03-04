@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2023_09_05_Alapok\2023_09_05_Alapok\bin\Debug\2023_09_05_Alapok.exe.config
+H:\2023-2024\11.c csop 2 AAF\2023_09_05_Alapok\2023_09_05_Alapok\bin\Debug\2023_09_05_Alapok.exe
+H:\2023-2024\11.c csop 2 AAF\2023_09_05_Alapok\2023_09_05_Alapok\bin\Debug\2023_09_05_Alapok.pdb
+H:\2023-2024\11.c csop 2 AAF\2023_09_05_Alapok\2023_09_05_Alapok\obj\Debug\2023_09_05_Alapok.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2023_09_05_Alapok\2023_09_05_Alapok\obj\Debug\2023_09_05_Alapok.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2023_09_05_Alapok\2023_09_05_Alapok\obj\Debug\2023_09_05_Alapok.exe
+H:\2023-2024\11.c csop 2 AAF\2023_09_05_Alapok\2023_09_05_Alapok\obj\Debug\2023_09_05_Alapok.pdb

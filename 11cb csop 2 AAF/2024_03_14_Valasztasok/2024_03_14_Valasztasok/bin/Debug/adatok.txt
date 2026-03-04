@@ -1,0 +1,2 @@
+egy sorba írja az adatot. A kiírt szöveg után sort fog törni.
+új sor.

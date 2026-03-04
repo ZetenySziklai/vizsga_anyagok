@@ -1,0 +1,7 @@
+h:\2023-2024\11.c csop 2 AAF\2024_03_21_Szalloda\2024_03_21_Szalloda\bin\Debug\2024_03_21_Szalloda.exe.config
+h:\2023-2024\11.c csop 2 AAF\2024_03_21_Szalloda\2024_03_21_Szalloda\bin\Debug\2024_03_21_Szalloda.exe
+h:\2023-2024\11.c csop 2 AAF\2024_03_21_Szalloda\2024_03_21_Szalloda\bin\Debug\2024_03_21_Szalloda.pdb
+h:\2023-2024\11.c csop 2 AAF\2024_03_21_Szalloda\2024_03_21_Szalloda\obj\Debug\2024_03_21_Szalloda.csproj.AssemblyReference.cache
+h:\2023-2024\11.c csop 2 AAF\2024_03_21_Szalloda\2024_03_21_Szalloda\obj\Debug\2024_03_21_Szalloda.csproj.CoreCompileInputs.cache
+h:\2023-2024\11.c csop 2 AAF\2024_03_21_Szalloda\2024_03_21_Szalloda\obj\Debug\2024_03_21_Szalloda.exe
+h:\2023-2024\11.c csop 2 AAF\2024_03_21_Szalloda\2024_03_21_Szalloda\obj\Debug\2024_03_21_Szalloda.pdb

@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2024_04_24_OOPHaromszog\2024_04_24_OOPHaromszog\bin\Debug\2024_04_24_OOPHaromszog.exe.config
+H:\2023-2024\11.c csop 2 AAF\2024_04_24_OOPHaromszog\2024_04_24_OOPHaromszog\bin\Debug\2024_04_24_OOPHaromszog.exe
+H:\2023-2024\11.c csop 2 AAF\2024_04_24_OOPHaromszog\2024_04_24_OOPHaromszog\bin\Debug\2024_04_24_OOPHaromszog.pdb
+H:\2023-2024\11.c csop 2 AAF\2024_04_24_OOPHaromszog\2024_04_24_OOPHaromszog\obj\Debug\2024_04_24_OOPHaromszog.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2024_04_24_OOPHaromszog\2024_04_24_OOPHaromszog\obj\Debug\2024_04_24_OOPHaromszog.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2024_04_24_OOPHaromszog\2024_04_24_OOPHaromszog\obj\Debug\2024_04_24_OOPHaromszog.exe
+H:\2023-2024\11.c csop 2 AAF\2024_04_24_OOPHaromszog\2024_04_24_OOPHaromszog\obj\Debug\2024_04_24_OOPHaromszog.pdb

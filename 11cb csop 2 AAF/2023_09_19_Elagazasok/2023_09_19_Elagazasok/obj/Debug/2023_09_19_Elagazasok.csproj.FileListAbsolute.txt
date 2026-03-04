@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2023_09_19_Elagazasok\2023_09_19_Elagazasok\bin\Debug\2023_09_19_Elagazasok.exe.config
+H:\2023-2024\11.c csop 2 AAF\2023_09_19_Elagazasok\2023_09_19_Elagazasok\bin\Debug\2023_09_19_Elagazasok.exe
+H:\2023-2024\11.c csop 2 AAF\2023_09_19_Elagazasok\2023_09_19_Elagazasok\bin\Debug\2023_09_19_Elagazasok.pdb
+H:\2023-2024\11.c csop 2 AAF\2023_09_19_Elagazasok\2023_09_19_Elagazasok\obj\Debug\2023_09_19_Elagazasok.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2023_09_19_Elagazasok\2023_09_19_Elagazasok\obj\Debug\2023_09_19_Elagazasok.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2023_09_19_Elagazasok\2023_09_19_Elagazasok\obj\Debug\2023_09_19_Elagazasok.exe
+H:\2023-2024\11.c csop 2 AAF\2023_09_19_Elagazasok\2023_09_19_Elagazasok\obj\Debug\2023_09_19_Elagazasok.pdb

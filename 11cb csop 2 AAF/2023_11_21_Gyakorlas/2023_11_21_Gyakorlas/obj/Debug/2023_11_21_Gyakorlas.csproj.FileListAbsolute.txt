@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2023_11_21_Gyakorlas\2023_11_21_Gyakorlas\bin\Debug\2023_11_21_Gyakorlas.exe.config
+H:\2023-2024\11.c csop 2 AAF\2023_11_21_Gyakorlas\2023_11_21_Gyakorlas\bin\Debug\2023_11_21_Gyakorlas.exe
+H:\2023-2024\11.c csop 2 AAF\2023_11_21_Gyakorlas\2023_11_21_Gyakorlas\bin\Debug\2023_11_21_Gyakorlas.pdb
+H:\2023-2024\11.c csop 2 AAF\2023_11_21_Gyakorlas\2023_11_21_Gyakorlas\obj\Debug\2023_11_21_Gyakorlas.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2023_11_21_Gyakorlas\2023_11_21_Gyakorlas\obj\Debug\2023_11_21_Gyakorlas.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2023_11_21_Gyakorlas\2023_11_21_Gyakorlas\obj\Debug\2023_11_21_Gyakorlas.exe
+H:\2023-2024\11.c csop 2 AAF\2023_11_21_Gyakorlas\2023_11_21_Gyakorlas\obj\Debug\2023_11_21_Gyakorlas.pdb

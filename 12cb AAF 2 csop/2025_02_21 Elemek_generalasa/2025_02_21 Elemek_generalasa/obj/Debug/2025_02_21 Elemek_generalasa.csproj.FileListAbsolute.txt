@@ -1,0 +1,11 @@
+H:\2024-2025\12.cb AAF 2csop\2025_02_21 Elemek_generalasa\2025_02_21 Elemek_generalasa\bin\Debug\2025_02_21 Elemek_generalasa.exe.config
+H:\2024-2025\12.cb AAF 2csop\2025_02_21 Elemek_generalasa\2025_02_21 Elemek_generalasa\bin\Debug\2025_02_21 Elemek_generalasa.exe
+H:\2024-2025\12.cb AAF 2csop\2025_02_21 Elemek_generalasa\2025_02_21 Elemek_generalasa\bin\Debug\2025_02_21 Elemek_generalasa.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_02_21 Elemek_generalasa\2025_02_21 Elemek_generalasa\obj\Debug\2025_02_21 Elemek_generalasa.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2025_02_21 Elemek_generalasa\2025_02_21 Elemek_generalasa\obj\Debug\_2025_02_21_Elemek_generalasa.Form1.resources
+H:\2024-2025\12.cb AAF 2csop\2025_02_21 Elemek_generalasa\2025_02_21 Elemek_generalasa\obj\Debug\_2025_02_21_Elemek_generalasa.Properties.Resources.resources
+H:\2024-2025\12.cb AAF 2csop\2025_02_21 Elemek_generalasa\2025_02_21 Elemek_generalasa\obj\Debug\2025_02_21 Elemek_generalasa.csproj.GenerateResource.cache
+H:\2024-2025\12.cb AAF 2csop\2025_02_21 Elemek_generalasa\2025_02_21 Elemek_generalasa\obj\Debug\2025_02_21 Elemek_generalasa.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2025_02_21 Elemek_generalasa\2025_02_21 Elemek_generalasa\obj\Debug\2025_02_21 Elemek_generalasa.exe
+H:\2024-2025\12.cb AAF 2csop\2025_02_21 Elemek_generalasa\2025_02_21 Elemek_generalasa\obj\Debug\2025_02_21 Elemek_generalasa.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_02_21 Elemek_generalasa\2025_02_21 Elemek_generalasa\obj\Debug\_2025_02_21_Elemek_generalasa.Form2.resources

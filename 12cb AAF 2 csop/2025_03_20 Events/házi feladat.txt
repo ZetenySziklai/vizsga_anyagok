@@ -1,0 +1,12 @@
+Készítsen egy jegyzettömböt a notepad++ mintájára!
+Legyen benne menü, eszköztár és lapozható oldal!
+Menü:
+	- File -> Save, Open, New, Exit
+Eszköztár: 
+	- Save, Open, New
+Lapozható:
+	- szöveg beírását lehessen megvalósítani!
+	- Save esetén az aktuális lap (tabitem) tartalmát menti el!
+	- Open esetén az aktuális lapba (tabitem) tölti be a szöveget!
+	- New esetén, új lapot (tabitemet) hoz létre!
+	

@@ -1,0 +1,14 @@
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\KutyaMenhely\KutyaMenhely\bin\Debug\net8.0\KutyaMenhely.exe
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\KutyaMenhely\KutyaMenhely\bin\Debug\net8.0\KutyaMenhely.deps.json
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\KutyaMenhely\KutyaMenhely\bin\Debug\net8.0\KutyaMenhely.runtimeconfig.json
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\KutyaMenhely\KutyaMenhely\bin\Debug\net8.0\KutyaMenhely.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\KutyaMenhely\KutyaMenhely\bin\Debug\net8.0\KutyaMenhely.pdb
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\KutyaMenhely\KutyaMenhely\obj\Debug\net8.0\KutyaMenhely.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\KutyaMenhely\KutyaMenhely\obj\Debug\net8.0\KutyaMenhely.AssemblyInfoInputs.cache
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\KutyaMenhely\KutyaMenhely\obj\Debug\net8.0\KutyaMenhely.AssemblyInfo.cs
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\KutyaMenhely\KutyaMenhely\obj\Debug\net8.0\KutyaMenhely.csproj.CoreCompileInputs.cache
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\KutyaMenhely\KutyaMenhely\obj\Debug\net8.0\KutyaMenhely.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\KutyaMenhely\KutyaMenhely\obj\Debug\net8.0\refint\KutyaMenhely.dll
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\KutyaMenhely\KutyaMenhely\obj\Debug\net8.0\KutyaMenhely.pdb
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\KutyaMenhely\KutyaMenhely\obj\Debug\net8.0\KutyaMenhely.genruntimeconfig.cache
+H:\2025-2026\Minta vizsgafeladatsor\Asztali console\KutyaMenhely\KutyaMenhely\obj\Debug\net8.0\ref\KutyaMenhely.dll

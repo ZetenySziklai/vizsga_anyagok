@@ -1,0 +1,5 @@
+/* 1. [n,m]-es mátrix, amit a felhasználó ad meg. Töltse fel két jegyű számokkal és nullával úgy, hogy a nullát a felhasználó által bekért [0,100] valószínűség között generálja ki.
+             * 2. Hány darab nulla van?
+             * 3. Generáljon ki egy sorszámot, és adja meg a nullák számát!
+             * 4. Van-e olyan oszlop ahol csak nulla van?
+             * 5. Van-e olyan szám, aminek a szomszédjában csak nulla szerepel (átlósan is)?*/

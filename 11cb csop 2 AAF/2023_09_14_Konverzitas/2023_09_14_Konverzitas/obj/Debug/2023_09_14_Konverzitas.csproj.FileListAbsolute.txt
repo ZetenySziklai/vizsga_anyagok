@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2023_09_14_Konverzitas\2023_09_14_Konverzitas\bin\Debug\2023_09_14_Konverzitas.exe.config
+H:\2023-2024\11.c csop 2 AAF\2023_09_14_Konverzitas\2023_09_14_Konverzitas\bin\Debug\2023_09_14_Konverzitas.exe
+H:\2023-2024\11.c csop 2 AAF\2023_09_14_Konverzitas\2023_09_14_Konverzitas\bin\Debug\2023_09_14_Konverzitas.pdb
+H:\2023-2024\11.c csop 2 AAF\2023_09_14_Konverzitas\2023_09_14_Konverzitas\obj\Debug\2023_09_14_Konverzitas.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2023_09_14_Konverzitas\2023_09_14_Konverzitas\obj\Debug\2023_09_14_Konverzitas.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2023_09_14_Konverzitas\2023_09_14_Konverzitas\obj\Debug\2023_09_14_Konverzitas.exe
+H:\2023-2024\11.c csop 2 AAF\2023_09_14_Konverzitas\2023_09_14_Konverzitas\obj\Debug\2023_09_14_Konverzitas.pdb

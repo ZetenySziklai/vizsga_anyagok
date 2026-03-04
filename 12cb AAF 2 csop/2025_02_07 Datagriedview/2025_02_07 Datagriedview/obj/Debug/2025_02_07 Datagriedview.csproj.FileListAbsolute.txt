@@ -1,0 +1,10 @@
+H:\2024-2025\12.cb AAF 2csop\2025_02_07 Datagriedview\2025_02_07 Datagriedview\bin\Debug\2025_02_07 Datagriedview.exe.config
+H:\2024-2025\12.cb AAF 2csop\2025_02_07 Datagriedview\2025_02_07 Datagriedview\bin\Debug\2025_02_07 Datagriedview.exe
+H:\2024-2025\12.cb AAF 2csop\2025_02_07 Datagriedview\2025_02_07 Datagriedview\bin\Debug\2025_02_07 Datagriedview.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_02_07 Datagriedview\2025_02_07 Datagriedview\obj\Debug\2025_02_07 Datagriedview.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb AAF 2csop\2025_02_07 Datagriedview\2025_02_07 Datagriedview\obj\Debug\_2025_02_07_Datagriedview.Form1.resources
+H:\2024-2025\12.cb AAF 2csop\2025_02_07 Datagriedview\2025_02_07 Datagriedview\obj\Debug\_2025_02_07_Datagriedview.Properties.Resources.resources
+H:\2024-2025\12.cb AAF 2csop\2025_02_07 Datagriedview\2025_02_07 Datagriedview\obj\Debug\2025_02_07 Datagriedview.csproj.GenerateResource.cache
+H:\2024-2025\12.cb AAF 2csop\2025_02_07 Datagriedview\2025_02_07 Datagriedview\obj\Debug\2025_02_07 Datagriedview.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb AAF 2csop\2025_02_07 Datagriedview\2025_02_07 Datagriedview\obj\Debug\2025_02_07 Datagriedview.exe
+H:\2024-2025\12.cb AAF 2csop\2025_02_07 Datagriedview\2025_02_07 Datagriedview\obj\Debug\2025_02_07 Datagriedview.pdb

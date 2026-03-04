@@ -1,0 +1,7 @@
+H:\2024-2025\12.cb IPII 2csop\projekt futóverseny\2024_02_06_FutoversenyProjekt\2024_02_06_FutoversenyProjekt\bin\Debug\2024_02_06_FutoversenyProjekt.exe.config
+H:\2024-2025\12.cb IPII 2csop\projekt futóverseny\2024_02_06_FutoversenyProjekt\2024_02_06_FutoversenyProjekt\bin\Debug\2024_02_06_FutoversenyProjekt.exe
+H:\2024-2025\12.cb IPII 2csop\projekt futóverseny\2024_02_06_FutoversenyProjekt\2024_02_06_FutoversenyProjekt\bin\Debug\2024_02_06_FutoversenyProjekt.pdb
+H:\2024-2025\12.cb IPII 2csop\projekt futóverseny\2024_02_06_FutoversenyProjekt\2024_02_06_FutoversenyProjekt\obj\Debug\2024_02_06_FutoversenyProjekt.csproj.AssemblyReference.cache
+H:\2024-2025\12.cb IPII 2csop\projekt futóverseny\2024_02_06_FutoversenyProjekt\2024_02_06_FutoversenyProjekt\obj\Debug\2024_02_06_FutoversenyProjekt.csproj.CoreCompileInputs.cache
+H:\2024-2025\12.cb IPII 2csop\projekt futóverseny\2024_02_06_FutoversenyProjekt\2024_02_06_FutoversenyProjekt\obj\Debug\2024_02_06_FutoversenyProjekt.exe
+H:\2024-2025\12.cb IPII 2csop\projekt futóverseny\2024_02_06_FutoversenyProjekt\2024_02_06_FutoversenyProjekt\obj\Debug\2024_02_06_FutoversenyProjekt.pdb

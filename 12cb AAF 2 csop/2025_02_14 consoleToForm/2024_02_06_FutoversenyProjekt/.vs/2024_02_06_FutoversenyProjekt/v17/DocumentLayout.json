@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_futoversenyprojekt\\futtathato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|solutionrelative:2024_02_06_futoversenyprojekt\\futtathato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|h:\\2024-2025\\12.cb ipii 2csop\\projekt fut\u00F3verseny\\2024_02_06_futoversenyprojekt\\2024_02_06_futoversenyprojekt\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|solutionrelative:2024_02_06_futoversenyprojekt\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_futoversenyprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|solutionrelative:2024_02_06_futoversenyprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_futoversenyprojekt\\szervezo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|solutionrelative:2024_02_06_futoversenyprojekt\\szervezo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_futoversenyprojekt\\versenytipus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|solutionrelative:2024_02_06_futoversenyprojekt\\versenytipus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_futoversenyprojekt\\futas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|solutionrelative:2024_02_06_futoversenyprojekt\\futas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_futoversenyprojekt\\iszervezo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|solutionrelative:2024_02_06_futoversenyprojekt\\iszervezo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_futoversenyprojekt\\iversenytipus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|solutionrelative:2024_02_06_futoversenyprojekt\\iversenytipus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_futoversenyprojekt\\iversenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B4731D-94F7-4792-A7AA-A557DE15264D}|2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt.csproj|solutionrelative:2024_02_06_futoversenyprojekt\\iversenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Futtathato.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\Futtathato.cs",
+              "RelativeDocumentMoniker": "2024_02_06_FutoversenyProjekt\\Futtathato.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\Futtathato.cs",
+              "RelativeToolTip": "2024_02_06_FutoversenyProjekt\\Futtathato.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:19:27.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Szervezo.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\Szervezo.cs",
+              "RelativeDocumentMoniker": "2024_02_06_FutoversenyProjekt\\Szervezo.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\Szervezo.cs",
+              "RelativeToolTip": "2024_02_06_FutoversenyProjekt\\Szervezo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T13:03:16.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Versenytipus.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\Versenytipus.cs",
+              "RelativeDocumentMoniker": "2024_02_06_FutoversenyProjekt\\Versenytipus.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\Versenytipus.cs",
+              "RelativeToolTip": "2024_02_06_FutoversenyProjekt\\Versenytipus.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:58:25.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Versenyzo.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\Versenyzo.cs",
+              "RelativeDocumentMoniker": "2024_02_06_FutoversenyProjekt\\Versenyzo.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\Versenyzo.cs",
+              "RelativeToolTip": "2024_02_06_FutoversenyProjekt\\Versenyzo.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:45:19.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Futas.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\Futas.cs",
+              "RelativeDocumentMoniker": "2024_02_06_FutoversenyProjekt\\Futas.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\Futas.cs",
+              "RelativeToolTip": "2024_02_06_FutoversenyProjekt\\Futas.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:06:36.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISzervezo.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\ISzervezo.cs",
+              "RelativeDocumentMoniker": "2024_02_06_FutoversenyProjekt\\ISzervezo.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\ISzervezo.cs",
+              "RelativeToolTip": "2024_02_06_FutoversenyProjekt\\ISzervezo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:04:34.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IVersenytipus.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\IVersenytipus.cs",
+              "RelativeDocumentMoniker": "2024_02_06_FutoversenyProjekt\\IVersenytipus.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\IVersenytipus.cs",
+              "RelativeToolTip": "2024_02_06_FutoversenyProjekt\\IVersenytipus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:03:13.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IVersenyzo.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\IVersenyzo.cs",
+              "RelativeDocumentMoniker": "2024_02_06_FutoversenyProjekt\\IVersenyzo.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\IVersenyzo.cs",
+              "RelativeToolTip": "2024_02_06_FutoversenyProjekt\\IVersenyzo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:59:08.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\Program.cs",
+              "RelativeDocumentMoniker": "2024_02_06_FutoversenyProjekt\\Program.cs",
+              "ToolTip": "H:\\2024-2025\\12.cb IPII 2csop\\projekt fut\u00F3verseny\\2024_02_06_FutoversenyProjekt\\2024_02_06_FutoversenyProjekt\\Program.cs",
+              "RelativeToolTip": "2024_02_06_FutoversenyProjekt\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:53:34.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

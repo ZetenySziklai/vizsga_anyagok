@@ -1,0 +1,41 @@
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\bin\Debug\net8.0-windows\2025_03_20 Events.exe
+H:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\bin\Debug\net8.0-windows\2025_03_20 Events.deps.json
+H:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\bin\Debug\net8.0-windows\2025_03_20 Events.runtimeconfig.json
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\bin\Debug\net8.0-windows\2025_03_20 Events.dll
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\bin\Debug\net8.0-windows\2025_03_20 Events.pdb
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\obj\Debug\net8.0-windows\MainWindow.g.cs
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\obj\Debug\net8.0-windows\App.g.cs
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events_MarkupCompile.cache
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events_MarkupCompile.lref
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\obj\Debug\net8.0-windows\MainWindow.baml
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.g.resources
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.GeneratedMSBuildEditorConfig.editorconfig
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.AssemblyInfoInputs.cache
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.AssemblyInfo.cs
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.csproj.CoreCompileInputs.cache
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.sourcelink.json
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.dll
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\obj\Debug\net8.0-windows\refint\2025_03_20 Events.dll
+h:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.pdb
+H:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.genruntimeconfig.cache
+H:\2024-2025\12.cb AAF 2csop\2025_03_20 Events\obj\Debug\net8.0-windows\ref\2025_03_20 Events.dll
+k:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\bin\Debug\net8.0-windows\2025_03_20 Events.exe
+K:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\bin\Debug\net8.0-windows\2025_03_20 Events.deps.json
+K:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\bin\Debug\net8.0-windows\2025_03_20 Events.runtimeconfig.json
+k:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\bin\Debug\net8.0-windows\2025_03_20 Events.dll
+k:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\bin\Debug\net8.0-windows\2025_03_20 Events.pdb
+k:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\obj\Debug\net8.0-windows\MainWindow.g.cs
+k:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\obj\Debug\net8.0-windows\App.g.cs
+k:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events_MarkupCompile.cache
+k:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events_MarkupCompile.lref
+k:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\obj\Debug\net8.0-windows\MainWindow.baml
+k:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.g.resources
+k:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.GeneratedMSBuildEditorConfig.editorconfig
+k:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.AssemblyInfoInputs.cache
+k:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.AssemblyInfo.cs
+k:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.csproj.CoreCompileInputs.cache
+k:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.dll
+k:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\obj\Debug\net8.0-windows\refint\2025_03_20 Events.dll
+k:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.pdb
+K:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\obj\Debug\net8.0-windows\2025_03_20 Events.genruntimeconfig.cache
+K:\t_Szabo Daniel\12cb AAF 2 csop\2025_03_20 Events\obj\Debug\net8.0-windows\ref\2025_03_20 Events.dll

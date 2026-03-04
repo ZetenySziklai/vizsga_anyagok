@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2024_03_14_Valasztasok\2024_03_14_Valasztasok\bin\Debug\2024_03_14_Valasztasok.exe.config
+H:\2023-2024\11.c csop 2 AAF\2024_03_14_Valasztasok\2024_03_14_Valasztasok\bin\Debug\2024_03_14_Valasztasok.exe
+H:\2023-2024\11.c csop 2 AAF\2024_03_14_Valasztasok\2024_03_14_Valasztasok\bin\Debug\2024_03_14_Valasztasok.pdb
+H:\2023-2024\11.c csop 2 AAF\2024_03_14_Valasztasok\2024_03_14_Valasztasok\obj\Debug\2024_03_14_Valasztasok.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2024_03_14_Valasztasok\2024_03_14_Valasztasok\obj\Debug\2024_03_14_Valasztasok.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2024_03_14_Valasztasok\2024_03_14_Valasztasok\obj\Debug\2024_03_14_Valasztasok.exe
+H:\2023-2024\11.c csop 2 AAF\2024_03_14_Valasztasok\2024_03_14_Valasztasok\obj\Debug\2024_03_14_Valasztasok.pdb

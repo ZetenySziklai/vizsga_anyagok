@@ -1,0 +1,7 @@
+H:\2023-2024\11.c csop 2 AAF\2024_02_21_ListToMatrix\2024_02_21_ListToMatrix\bin\Debug\2024_02_21_ListToMatrix.exe.config
+H:\2023-2024\11.c csop 2 AAF\2024_02_21_ListToMatrix\2024_02_21_ListToMatrix\bin\Debug\2024_02_21_ListToMatrix.exe
+H:\2023-2024\11.c csop 2 AAF\2024_02_21_ListToMatrix\2024_02_21_ListToMatrix\bin\Debug\2024_02_21_ListToMatrix.pdb
+H:\2023-2024\11.c csop 2 AAF\2024_02_21_ListToMatrix\2024_02_21_ListToMatrix\obj\Debug\2024_02_21_ListToMatrix.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2024_02_21_ListToMatrix\2024_02_21_ListToMatrix\obj\Debug\2024_02_21_ListToMatrix.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2024_02_21_ListToMatrix\2024_02_21_ListToMatrix\obj\Debug\2024_02_21_ListToMatrix.exe
+H:\2023-2024\11.c csop 2 AAF\2024_02_21_ListToMatrix\2024_02_21_ListToMatrix\obj\Debug\2024_02_21_ListToMatrix.pdb
