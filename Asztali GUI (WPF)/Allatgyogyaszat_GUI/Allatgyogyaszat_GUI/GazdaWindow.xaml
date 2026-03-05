@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="GazdaWindow" Height="180" Width="320">
     <Grid>
-        <Button Content="Módosítás" HorizontalAlignment="Left" Margin="5,106,0,0" VerticalAlignment="Top" Height="22" Width="81"/>
+        <Button Content="Módosítás" HorizontalAlignment="Left" Margin="5,106,0,0" VerticalAlignment="Top" Height="22" Width="81" Click="Button_Click"/>
         <Label Name="labelNev" Content="Név:" HorizontalAlignment="Left" Margin="5,0,0,0" VerticalAlignment="Top"/>
         <Label Name="labelTelefon" Content="Tel:" HorizontalAlignment="Left" Margin="5,26,0,0" VerticalAlignment="Top"/>
         <Label Name="labelEmail" Content="Email:" HorizontalAlignment="Left" Margin="5,52,0,0" VerticalAlignment="Top"/>

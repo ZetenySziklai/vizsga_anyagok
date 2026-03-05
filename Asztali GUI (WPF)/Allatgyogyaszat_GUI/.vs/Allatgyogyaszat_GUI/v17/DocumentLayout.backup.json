@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\",
+  "WorkspaceRootPath": "C:\\Users\\sziklai.zeteny\\Desktop\\vizsga_anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|c:\\users\\sziklai.zeteny\\desktop\\vizsgahoz anyagok\\asztali gui (wpf)\\allatgyogyaszat_gui\\allatgyogyaszat_gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|solutionrelative:allatgyogyaszat_gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|c:\\users\\sziklai.zeteny\\desktop\\vizsgahoz anyagok\\asztali gui (wpf)\\allatgyogyaszat_gui\\allatgyogyaszat_gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|solutionrelative:allatgyogyaszat_gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|c:\\users\\sziklai.zeteny\\desktop\\vizsgahoz anyagok\\asztali gui (wpf)\\allatgyogyaszat_gui\\allatgyogyaszat_gui\\gazdawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|c:\\users\\sziklai.zeteny\\desktop\\vizsga_anyagok\\asztali gui (wpf)\\allatgyogyaszat_gui\\allatgyogyaszat_gui\\gazdawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|solutionrelative:allatgyogyaszat_gui\\gazdawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|c:\\users\\sziklai.zeteny\\desktop\\vizsgahoz anyagok\\asztali gui (wpf)\\allatgyogyaszat_gui\\allatgyogyaszat_gui\\gazdawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|c:\\users\\sziklai.zeteny\\desktop\\vizsga_anyagok\\asztali gui (wpf)\\allatgyogyaszat_gui\\allatgyogyaszat_gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|solutionrelative:allatgyogyaszat_gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|c:\\users\\sziklai.zeteny\\desktop\\vizsga_anyagok\\asztali gui (wpf)\\allatgyogyaszat_gui\\allatgyogyaszat_gui\\gazdawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|solutionrelative:allatgyogyaszat_gui\\gazdawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|c:\\users\\sziklai.zeteny\\desktop\\vizsga_anyagok\\asztali gui (wpf)\\allatgyogyaszat_gui\\allatgyogyaszat_gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|solutionrelative:allatgyogyaszat_gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|c:\\users\\sziklai.zeteny\\desktop\\vizsga_anyagok\\asztali gui (wpf)\\allatgyogyaszat_gui\\allatgyogyaszat_gui\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|solutionrelative:allatgyogyaszat_gui\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|c:\\users\\sziklai.zeteny\\desktop\\vizsga_anyagok\\asztali gui (wpf)\\allatgyogyaszat_gui\\allatgyogyaszat_gui\\models\\gazda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D284247F-BFA5-4632-9BD2-E757F1CCE3BB}|Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI.csproj|solutionrelative:allatgyogyaszat_gui\\models\\gazda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,50 +46,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GazdaWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\GazdaWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Allatgyogyaszat_GUI\\GazdaWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\GazdaWindow.xaml.cs",
-              "RelativeToolTip": "Allatgyogyaszat_GUI\\GazdaWindow.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAnwBkAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\sziklai.zeteny\\Desktop\\vizsga_anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "Allatgyogyaszat_GUI\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\sziklai.zeteny\\Desktop\\vizsga_anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\Services\\ApiService.cs",
+              "RelativeToolTip": "Allatgyogyaszat_GUI\\Services\\ApiService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T10:34:30.008Z"
+              "WhenOpened": "2026-03-05T10:15:05.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gazda.cs",
+              "DocumentMoniker": "C:\\Users\\sziklai.zeteny\\Desktop\\vizsga_anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\Models\\Gazda.cs",
+              "RelativeDocumentMoniker": "Allatgyogyaszat_GUI\\Models\\Gazda.cs",
+              "ToolTip": "C:\\Users\\sziklai.zeteny\\Desktop\\vizsga_anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\Models\\Gazda.cs",
+              "RelativeToolTip": "Allatgyogyaszat_GUI\\Models\\Gazda.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T10:15:01.806Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sziklai.zeteny\\Desktop\\vizsga_anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Allatgyogyaszat_GUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sziklai.zeteny\\Desktop\\vizsga_anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\MainWindow.xaml",
+              "RelativeToolTip": "Allatgyogyaszat_GUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-19T06:42:46.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GazdaWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sziklai.zeteny\\Desktop\\vizsga_anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\GazdaWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Allatgyogyaszat_GUI\\GazdaWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sziklai.zeteny\\Desktop\\vizsga_anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\GazdaWindow.xaml.cs",
+              "RelativeToolTip": "Allatgyogyaszat_GUI\\GazdaWindow.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T10:34:30.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GazdaWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\GazdaWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sziklai.zeteny\\Desktop\\vizsga_anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\GazdaWindow.xaml",
               "RelativeDocumentMoniker": "Allatgyogyaszat_GUI\\GazdaWindow.xaml",
-              "ToolTip": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\GazdaWindow.xaml",
+              "ToolTip": "C:\\Users\\sziklai.zeteny\\Desktop\\vizsga_anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\GazdaWindow.xaml",
               "RelativeToolTip": "Allatgyogyaszat_GUI\\GazdaWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-02-24T16:44:17.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Allatgyogyaszat_GUI\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\MainWindow.xaml",
-              "RelativeToolTip": "Allatgyogyaszat_GUI\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-19T06:42:46.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sziklai.zeteny\\Desktop\\vizsga_anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Allatgyogyaszat_GUI\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\sziklai.zeteny\\Desktop\\Vizsgahoz anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sziklai.zeteny\\Desktop\\vizsga_anyagok\\Asztali GUI (WPF)\\Allatgyogyaszat_GUI\\Allatgyogyaszat_GUI\\MainWindow.xaml.cs",
               "RelativeToolTip": "Allatgyogyaszat_GUI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAArwCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwGcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T06:42:43.918Z"
+              "WhenOpened": "2026-02-19T06:42:43.918Z",
+              "EditorCaption": ""
             }
           ]
         }

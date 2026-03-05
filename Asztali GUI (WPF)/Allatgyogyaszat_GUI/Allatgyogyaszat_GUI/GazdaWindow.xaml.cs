@@ -35,5 +35,28 @@ namespace Allatgyogyaszat_GUI
             txtEmail.Text = gazda.Email;
             txtKerulet.Text = ""+gazda.Kerulet;
         }
+
+        private async void Button_Click(object sender, RoutedEventArgs e)
+        {
+            AdatokViewModel vm = new AdatokViewModel();
+            Gazda g = new Gazda()
+            {
+                Nev = txtNev.Text,
+                Telefon = txtTelefon.Text,
+                Email = txtEmail.Text,
+                Kerulet = Convert.ToInt16(txtKerulet.Text),
+                Id = gazda.Id,
+            };
+            bool valasz = await vm.GazdaModositas(gazda.Id,g);
+            if (valasz)
+            {
+                MessageBox.Show("Sikeres mód");
+            }
+            else
+            {
+                MessageBox.Show("Sikertelen");
+            }
+            Close();
+        }
     }
 }
