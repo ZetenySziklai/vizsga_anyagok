@@ -1,0 +1,26 @@
+{
+  "name": "allatgyogyaszat",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "echo [INFO] Az obfuszkálás miatt a console.log használhatatlanná vált, használjátok az error classokat debugra! && nodemon ."
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "jest": "^30.2.0",
+    "mysql2": "^3.16.2",
+    "sequelize": "^6.37.7",
+    "supertest": "^7.2.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "dotenv": "^17.2.3",
+    "nodemon": "^3.1.11"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Allatgyogyaszat_GUI/1.0.0": {
+        "runtime": {
+          "Allatgyogyaszat_GUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Allatgyogyaszat_GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

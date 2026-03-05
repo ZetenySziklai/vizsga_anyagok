@@ -1,0 +1,67 @@
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\bin\Debug\net8.0-windows\Allatgyogyaszat_GUI.exe
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\bin\Debug\net8.0-windows\Allatgyogyaszat_GUI.deps.json
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\bin\Debug\net8.0-windows\Allatgyogyaszat_GUI.runtimeconfig.json
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\bin\Debug\net8.0-windows\Allatgyogyaszat_GUI.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\bin\Debug\net8.0-windows\Allatgyogyaszat_GUI.pdb
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\App.g.cs
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI_MarkupCompile.cache
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI_MarkupCompile.lref
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\MainWindow.baml
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.g.resources
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.GeneratedMSBuildEditorConfig.editorconfig
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.AssemblyInfoInputs.cache
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.AssemblyInfo.cs
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.csproj.CoreCompileInputs.cache
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\refint\Allatgyogyaszat_GUI.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.pdb
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.genruntimeconfig.cache
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\ref\Allatgyogyaszat_GUI.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\GazdaWindow.g.cs
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\GazdaWindow.baml
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\GazdaWindow.g.cs
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\App.g.cs
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI_MarkupCompile.cache
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI_MarkupCompile.lref
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\refint\Allatgyogyaszat_GUI.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.pdb
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\bin\Debug\net8.0-windows\Allatgyogyaszat_GUI.exe
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\bin\Debug\net8.0-windows\Allatgyogyaszat_GUI.deps.json
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\bin\Debug\net8.0-windows\Allatgyogyaszat_GUI.runtimeconfig.json
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\bin\Debug\net8.0-windows\Allatgyogyaszat_GUI.dll
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\bin\Debug\net8.0-windows\Allatgyogyaszat_GUI.pdb
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\GazdaWindow.baml
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\MainWindow.baml
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.g.resources
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.GeneratedMSBuildEditorConfig.editorconfig
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.AssemblyInfoInputs.cache
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.AssemblyInfo.cs
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.csproj.CoreCompileInputs.cache
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.genruntimeconfig.cache
+G:\--== KÖZGÁZ\2025-2026\Minta vizsgafeladatsor\Feladatok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\ref\Allatgyogyaszat_GUI.dll
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\bin\Debug\net8.0-windows\Allatgyogyaszat_GUI.exe
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\bin\Debug\net8.0-windows\Allatgyogyaszat_GUI.deps.json
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\bin\Debug\net8.0-windows\Allatgyogyaszat_GUI.runtimeconfig.json
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\bin\Debug\net8.0-windows\Allatgyogyaszat_GUI.dll
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\bin\Debug\net8.0-windows\Allatgyogyaszat_GUI.pdb
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\GazdaWindow.g.cs
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI_MarkupCompile.cache
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI_MarkupCompile.lref
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\GazdaWindow.baml
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.g.resources
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.AssemblyInfoInputs.cache
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.AssemblyInfo.cs
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.csproj.CoreCompileInputs.cache
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.sourcelink.json
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.dll
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\refint\Allatgyogyaszat_GUI.dll
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.pdb
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\Allatgyogyaszat_GUI.genruntimeconfig.cache
+C:\Users\sziklai.zeteny\Desktop\Vizsgahoz anyagok\Asztali GUI (WPF)\Allatgyogyaszat_GUI\Allatgyogyaszat_GUI\obj\Debug\net8.0-windows\ref\Allatgyogyaszat_GUI.dll
